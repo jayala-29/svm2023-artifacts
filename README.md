@@ -2,4 +2,4 @@
 
 Contains all data collected and analyses performed for the paper "An Empirical Study on Workflows and Security Policies in Popular GitHub Repositories"
 
-- Language analysis found in `top-lanauages/lang-output/TopLang-analysis.ipynb`
+- Language analysis found in `top-languages/lang-output/TopLang-analysis.ipynb`
