@@ -1,0 +1,1001 @@
+author_repo,wf_contents,security_policy
+symfony/symfony,.github/workflows/code-quality.yml' 'active' '35491119' '.github/workflows/docker-compose.yml' 'active' '42601168' 'Integration' 'active' '10752364' 'Intl data' 'active' '4098622' 'Package' 'active' '7459239' 'PhpUnitBridge' 'active' '4153209' 'Static analysis' 'active' '6102157' 'Scorecards supply-chain security' 'active' '31616956' 'Tests' 'active' '1190684' 'PHPUnit' 'active' '10752365,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+getgrav/grav,Release Builds' 'active' '4058034' 'PHP Tests' 'active' '4102106' 'Trigger Skeletons Build' 'active' '6127094,SSuuppppoorrtteedd VVeerrssiioonnss' 'We are focusing our security updates on the following versions' 'VVeerrssiioonn SSuuppppoorrtteedd' 'x   ' 'x   ' '    ' ' VVeerrssiioonnss' 'Versions with  will be supported for security issues however you wont be' 'able to update to them you will need to manually update through the direct' 'install command' 'If you cannot update to the latest stable version available because for' 'example your server does not meet the minimum PHP requirements you can' 'manually install a previous version by downloading the package from our' 'Releases directory httpsgithubcomgetgravgravreleases' 'RReeppoorrttiinngg aa VVuullnneerraabbiilliittyy' 'Please contact securitygetgravorg with a detailed explaination of the' 'security issue found and we will work with you to get it resolved as fast as' 'possible
+symfony/console,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/http-foundation,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/event-dispatcher,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/finder,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/http-kernel,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+wallabag/wallabag,Assets' 'active' '3796434' 'CodeQL' 'active' '17406783' 'CS' 'active' '3796433' 'CI' 'active' '3796432' 'Auto-merge Dependabot JS' 'active' '36403107' 'Translations' 'active' '3796431' 'Upload release package' 'active' '27831411,RReeppoorrttiinngg aa VVuullnneerraabbiilliittyy' 'Please report security issues to hellowallabagorg
+api-platform/api-platform,CI' 'active' '3937986,If you have found any issues that might have security implications please read' 'reporting instructions in our security policy' 'PPLLEEAASSEE DDOO NNOOTT PPUUBBLLIISSHH SSEECCUURRIITTYY RREEPPOORRTTSS PPUUBBLLIICCLLYY
+symfony/polyfill-mbstring,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/routing,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/debug,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/css-selector,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+Sylius/Sylius,Documentation' 'active' '3834757' 'Packages' 'active' '3834797' 'Application' 'active' '3854193' 'Auto-merge' 'active' '5002148' 'Refactor' 'active' '25421872' 'Diff composer packages on PRs' 'active' '25998285' 'Social media notifications' 'active' '28808204,RReeppoorrttiinngg aa VVuullnneerraabbiilliittyy' 'If you think that you have found a security issue in Sylius please do not use' 'the issue tracker and do not post it publicly Instead all security issues' 'must be sent to securitysyliuscom' 'SSuuppppoorrtteedd VVeerrssiioonnss sseeccuurriittyy uuppddaatteess' 'Please refer to the release process
+symfony/process,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/var-dumper,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+php-pm/php-pm,CS & PHPStan & Phpunit & Integration Tests' 'active' '4035019,
+symfony/translation,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+pagekit/pagekit,,
+doctrine/DoctrineBundle,Coding Standards' 'active' '2735374' 'Composer Lint' 'active' '28739765' 'Lint Composer' 'active' '28615642' 'Continuous Integration' 'active' '3614747' 'Automatic Releases' 'active' '3436402' 'Static Analysis' 'active' '7432125' 'Dev dependencies stability check' 'active' '6008349,
+symfony/filesystem,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+bolt/bolt,,
+symfony/config,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+doctrine/DoctrineMigrationsBundle,Coding Standards' 'active' '2550548' 'Continuous Integration with unstable requirements' 'active' '15160928' 'Continuous Integration' 'active' '3540994' 'Automatic Releases' 'active' '3540025' 'Static Analysis' 'active' '3540899,
+symfony/flex,CI' 'active' '4274170,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/polyfill-ctype,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/dependency-injection,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/cache,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/dom-crawler,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+EasyCorp/EasyAdminBundle,CI' 'active' '3251364' 'Linter: Code Syntax' 'active' '3251731' 'Linter: Documentation' 'active' '3252360' 'Tests' 'active' '8708464' 'Tests - Upcoming PHP version' 'active' '8711200' 'Tests - macOS' 'active' '8711202' 'Tests - Windows' 'active' '8711203' 'Tests - Linux' 'active' '8711204' 'Tests - Maintained Symfony versions' 'active' '9782792' 'Tests - Legacy Symfony versions' 'active' '13316290' 'Tests - Lowest supported dependencies' 'active' '15702022' 'Tests - Upcoming Symfony version' 'active' '16294940' 'Linter: PHPStan' 'active' '41036961,SSuuppppoorrtteedd VVeerrssiioonnss' 'BBrraanncchh SSuuppppoorrtteedd' 'x    No' 'master Yes' 'RReeppoorrttiinngg aa VVuullnneerraabbiilliittyy' '    This project relies on Symfony components for most of its features If' '      you suspect that the security issue is caused by Symfony please report' '      the issue to them as explained in symfonycomsecurity' '    Since this bundle is used to create admins with restricted access most' '      of the security issues dont have any practical impact and you can report' '      them as regular issues' '    If you find truly critical security issues eg a way to bypass the' '      restricted access to the admin you can report them to my private email' '      address at javiereguiluzsymfonycom
+silexphp/Silex,,
+symfony/yaml,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/dotenv,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/contracts,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+sensiolabs/SensioFrameworkExtraBundle,Tests' 'active' '9752508,
+symfony/framework-bundle,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/polyfill-php70,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+laravel-zero/laravel-zero,Tests' 'active' '2473026,
+symfony/event-dispatcher-contracts,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/doctrine-bridge,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/asset,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/options-resolver,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+cocur/slugify,PHPUnit' 'active' '16508529,
+doctrine/DoctrineCacheBundle,,
+FriendsOfSymfony/FOSRestBundle,CI' 'active' '4065601,
+symfony/browser-kit,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/monolog-bundle,CI' 'active' '13648114,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/panther,CI' 'active' '2825289,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+Volmarg/personal-management-system,,
+symfony/expression-language,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/stopwatch,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/form,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/property-access,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+CodelyTV/php-ddd-example,CI' 'active' '402705' 'labeler' 'active' '697317,
+symfony/intl,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/mime,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/polyfill-intl-icu,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+nicoverbruggen/phpmon,,SSuuppppoorrtteedd vveerrssiioonnss' 'Generally speaking only the latest version of PPHHPP MMoonniittoorr is supported except' 'during transition periods for example when particular system requirements go' 'up' 'VVeerrssiioonn AAppppllee       SSuuppppoorrtteedd SSuuppppoorrtteedd DDeeppllooyymmeenntt DDeetteecctteedd PPHHPP  RReeccoommmmeennddeedd' '        SSiilliiccoonn               mmaaccOOSS     TTaarrggeett     VVeerrssiioonnss      VVaalleett VVeerrssiioonn' '                              Big Sur              PHP PHP' '                                              w Valet ' 'x      Universal  Yes     Monterey  macOS   x          recommended' '        binary                               PHP PHP   ' '                              Ventura               w Valet minimum' '                                             x' 'LLeeggaaccyy vveerrssiioonnss' 'These versions of PHP Monitor are no longer supported but if youre using an' 'older computer with an older version of Homebrew Valet or macOS you might' 'want to use one of these versions' '                                                                    MMiinniimmuumm' 'VVeerrssiioonn AAppppllee SSiilliiccoonn SSuuppppoorrtteedd SSuuppppoorrtteedd DDeeppllooyymmeenntt   DDeetteecctteedd PPHHPP RReeqquuiirreedd' '                                mmaaccOOSS     TTaarrggeett       VVeerrssiioonnss     VVaalleett' '                                                                    VVeerrssiioonn' '                                Big Sur' '      Universal                macOS     PHP PHP  ' '        binary                  Monterey               ' '                                ' '                                Big Sur' '      Universal                macOS  PHP PHP  ' '        binary                  Monterey               ' '                                ' '                                Big Sur' '      Universal                macOS  PHP PHP  ' '        binary                  Monterey               ' '                                ' '  Universal            Big Sur   macOS  PHP PHP  ' '        binary                                   ' '      Universal            Big Sur   macOS  PHP PHP  ' '        binary                                   ' '         Universal' '        binary                  Big Sur' '     usrlocal                macOS  not          not' '        homebrew                Catalina               applicable   applicable' '        installations           ' '        only' '         Universal' '        binary                  Big Sur' '     usrlocal                macOS  not          not' '        homebrew                Catalina               applicable   applicable' '        installations           ' '        only' '         Intel' '        binary' '    usrlocal            Catalina  macOS  not          not' '        homebrew                                applicable   applicable' '        installations' '        only' 'RReeppoorrttiinngg aa vvuullnneerraabbiilliittyy' 'Contact me Nico Verbruggen at the email address used for the commits in the' 'repository Please include PHP Monitor in the subject
+symfony/validator,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+nelmio/alice,CI' 'active' '4770896' 'Code style and static analysis' 'active' '4770897,
+symfony/monolog-bridge,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+lexik/LexikJWTAuthenticationBundle,CI Tests' 'active' '3935201' 'Coding Standards' 'active' '28973597' 'CI Tests (for Web Token support only)' 'active' '29018901,If you found any issues that might have security implications please report it' 'via httpstideliftcomsecurity or send an email to robinchalasgmailcom' 'DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'The full Security Policy is described in the Tidelift Security Policy
+symfony/twig-bridge,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+doctrine/DoctrineFixturesBundle,Coding Standards' 'active' '3605159' 'Continuous Integration' 'active' '3605160' 'Automatic Releases' 'active' '3605161' 'Static Analysis' 'active' '14276111,
+symfony/polyfill-php73,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/twig-bundle,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/phpunit-bridge,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+drush-ops/drush,Build static sites' 'active' '1988084' 'pages-build-deployment' 'active' '16467193,
+symfony/security-bundle,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/demo,Lint' 'active' '3401207' 'Mutation' 'active' '39087787' 'Tests' 'active' '9221938,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/service-contracts,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/translation-contracts,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/inflector,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/polyfill,Tests' 'active' '3166634,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/error-handler,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/serializer,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+hwi/HWIOAuthBundle,CI' 'active' '4649390,SSuuppppoorrtteedd VVeerrssiioonnss' 'VVeerrssiioonn SSuuppppoorrtteedd' '     ' '     ' '    ' 'RReeppoorrttiinngg aa VVuullnneerraabbiilliittyy' 'If you discover a security vulnerability please send an email at' 'stloydgmailcom
+api-platform/core,CI' 'active' '16688' 'CI' 'active' '185158,If you have found any issues that might have security implications please read' 'reporting instructions in our security policy' 'PPLLEEAASSEE DDOO NNOOTT PPUUBBLLIISSHH SSEECCUURRIITTYY RREEPPOORRTTSS PPUUBBLLIICCLLYY
+symfony/debug-bundle,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/webpack-encore,Testing apps' 'active' '31538984' 'High Dependencies' 'active' '12739783' 'ESLint' 'active' '12716555' 'Low Dependencies' 'active' '12739936' 'Node Tests' 'active' '12715771' 'Locked Dependencies' 'active' '12739597' 'Testing in real apps' 'active' '31541833,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+shopware/platform,Javascript analysis' 'active' '1263976' 'PHP analysis' 'active' '1263977' 'PHPUnit' 'active' '1263978' 'Jest' 'active' '1266320' 'Cypress' 'active' '2508455' 'Cancel' 'active' '2609760' 'CodeQL' 'active' '8445858' 'Danger' 'active' '9397847' 'Danger' 'active' '17107460' 'Lint Admin' 'active' '17107461' 'Lint Storefront' 'active' '17107462' 'PHP Lint' 'active' '17107463' 'Unit' 'active' '17107464' 'Security' 'active' '17107466' 'Windows clone check' 'active' '19129791' 'Cachix' 'active' '44052943,Visit our security reporting form to report security vulnerabilities and to' 'take part in our bug bounty program
+nelmio/NelmioApiDocBundle,CI' 'active' '4176110' 'CI' 'active' '26000783,
+php-enqueue/enqueue-dev,CI' 'active' '5163246,
+sonata-project/SonataAdminBundle,Lint' 'active' '465197' 'Documentation' 'active' '535130' 'Stale' 'active' '630715' 'Quality assurance' 'active' '1626406' 'Test' 'active' '2326018' 'Frontend' 'active' '8242216' 'Symfony Lint' 'active' '16984211' 'Rector' 'active' '22339854,
+EasyCorp/easy-log-handler,,
+symfony/web-profiler-bundle,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/cache-contracts,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/symfony-docs,CI' 'active' '506726' 'Code Blocks' 'active' '8263644' 'Lint' 'active' '45124,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+kimai/kimai,Tests' 'active' '531058' 'Lock Threads' 'active' '13829941' 'Docker Build' 'active' '14627623' 'Check .lock files' 'active' '15876052' 'Release Drafter' 'active' '28519721,SSuuppppoorrtteedd VVeerrssiioonnss' 'As announced in the README I only support the latest available release and main' 'branch' 'VVeerrssiioonn              SSuuppppoorrtteedd' 'main branch          ' 'latest minor release ' 'older releases       ' 'RReeppoorrttiinngg aa VVuullnneerraabbiilliittyy' 'Please read the Bughunter documentation before posting You can report any' 'security related vulnerability in the advisory section at GitHub or via email' 'to kpapstgmxnet' 'I will work as fast as I can to fix the problem and publish a bugfix release ' 'security update Depending on the size of the required fixes this might take a' 'couple of hours or a couple of days' 'You can expect that your message will be answered ASAP' 'You will be mentioned in the release notes if your issue is valid I am' 'grateful for any discrete disclosure of vulnerabilities
+symfony/property-info,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/orm-pack,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/var-exporter,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+stof/StofDoctrineExtensionsBundle,CI' 'active' '6410488,
+nelmio/NelmioCorsBundle,Tests' 'active' '4711877,
+symfony/profiler-pack,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/polyfill-iconv,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+dunglas/symfony-docker,CI' 'active' '3005743,
+dustin10/VichUploaderBundle,build' 'active' '4633305,
+symfony/http-client-contracts,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/http-client,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+KnpLabs/KnpPaginatorBundle,Build' 'active' '4268225,
+symfony/security-core,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/polyfill-intl-normalizer,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+backup-manager/backup-manager,Tests' 'active' '29639921' 'Static analysis' 'active' '29639922,
+symfony/deprecation-contracts,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+liip/LiipImagineBundle,PHP-CS-Fixer' 'active' '4694691' 'PHPStan' 'active' '4696354' 'PHPUnit' 'active' '4709347,
+symfony/swiftmailer-bundle,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/security-csrf,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/polyfill-php56,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/debug-pack,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/symfony-standard,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/polyfill-php80,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/security-http,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+FriendsOfSymfony/FOSJsRoutingBundle,Code_Checks' 'active' '16300549,
+symfony/security-guard,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+KnpLabs/KnpMenuBundle,Continuous Integration' 'active' '5822982,
+symfony/polyfill-util,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+maxpou/docker-symfony,,
+symfony/string,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/polyfill-intl-grapheme,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+shopware/shopware,Check Code' 'active' '1207480' 'CodeQL' 'active' '2820168' 'PHPUnit' 'active' '1207481,
+eko/docker-symfony,,
+symfony/web-server-bundle,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/web-link,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+endoflife-date/endoflife.date,Dependabot auto-merge release-updates' 'active' '22592355' 'Validate Frontmatter' 'active' '33776473,
+FriendsOfSymfony/FOSElasticaBundle,Continuous integration' 'active' '2603007,
+symfony/security,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+KnpLabs/KnpSnappyBundle,Build' 'active' '14438097,
+symfony/psr-http-message-bridge,CI' 'active' '11672298,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+forkcms/forkcms,publish-docker-image' 'active' '3192976' 'run-tests' 'active' '2976627,SSuuppppoorrtteedd VVeerrssiioonnss' 'VVeerrssiioonn SSuuppppoorrtteedd' 'xx   ' '  ' 'RReeppoorrttiinngg aa VVuullnneerraabbiilliittyy' 'If you discover any securityrelated issues please email coreforkcmscom' 'instead of using the issue tracker' 'IIttss aa ffeeaattuurree nnoott aa bbuugg' '     HTML is allowed in translations because you sometimes need it Any' '      reports regarding this will not be accepted as a security issue Owners' '      of a website can narrow down who can addedit translation strings using' '      the group permissions
+symfony/mailer,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/class-loader,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+FriendsOfSymfony/FOSOAuthServerBundle,Continuous integration' 'active' '2599930' 'Unit Tests' 'active' '19997167,
+symfony/serializer-pack,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+snc/SncRedisBundle,CS' 'active' '15805767' 'CI' 'active' '14502615' 'SA' 'active' '15811227,
+symfony/templating,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+jorge07/symfony-5-es-cqrs-boilerplate,pr' 'active' '516890' 'push' 'active' '1494907,
+dmaicher/doctrine-test-bundle,Build' 'active' '14840582,
+sulu/sulu,Crowdin Upload' 'active' '352636' 'Test application' 'active' '197182' 'Trigger styleguide build' 'active' '1950612,SSuuppppoorrtteedd VVeerrssiioonnss' 'VVeerrssiioonn   SSuuppppoorrtteedd' '   ' '   ' 'x     ' '      ' 'RReeppoorrttiinngg aa VVuullnneerraabbiilliittyy' 'You can contact us for security related issues by using securitysuluio
+hechoendrupal/drupal-console,,
+symfony/apache-pack,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+oroinc/crm-application,,
+akeneo/pim-community-dev,Extract DSM' 'active' '2198198' 'Validate pull request modifications' 'active' '2199594,
+Haehnchen/idea-php-symfony2-plugin,Java CI with Gradle' 'active' '11124927,
+symfony/test-pack,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/recipes,Q&A' 'active' '11088070' 'Cleanup Flex testing endpoint' 'active' '14313540' 'Update Flex endpoint' 'active' '14313541' 'Update Flex Archives' 'active' '24738599' 'Cleanup Flex testing endpoint' 'active' '25205725' 'Update Flex Archives' 'active' '25205726' 'Update Flex endpoint' 'active' '25205727' 'Q&A' 'active' '25205728,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/messenger,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+Cocolabs-SAS/cocorico,,
+thelia/thelia,test' 'active' '3217717,
+EnMarche/en-marche.fr,CodeQL' 'active' '3459605' 'OSSAR' 'active' '3577729' 'Snyk Container' 'active' '3577743' 'build' 'active' '3649939' 'CI & CD' 'active' '15216074' 'DevSkim' 'active' '15496752' 'Mayhem for API' 'active' '15496799' 'Remove old unused images from registry' 'active' '16002780' 'Test Coveralls' 'disabled_manually' '3592172' 'Psalm Static analysis' 'disabled_manually' '13277024' 'Anchore Container Scan' 'disabled_manually' '15496713,
+symfony-cmf/symfony-cmf,,
+overblog/GraphQLBundle,CI' 'active' '4451776,
+craue/CraueFormFlowBundle,,
+KnpLabs/KnpGaufretteBundle,Tests' 'active' '27121726,
+EC-CUBE/ec-cube,CI/CD for EC-CUBE' 'active' '277501' 'CentOS7 on EC-CUBE' 'active' '1464052' 'E2E test for EC-CUBE' 'active' '2312719' 'Unit test for EC-CUBE' 'active' '2312720' 'Plugin test for EC-CUBE' 'active' '2312721' 'Deploy for EC-CUBE' 'active' '2716143' 'PHPStan' 'active' '4988046' 'Coverage' 'active' '6294527' 'Testing dockerbuild' 'active' '7699088' 'Deny check for EC-CUBE' 'active' '12258656' 'Penetration testing for EC-CUBE' 'active' '13434649' 'VAddy' 'active' '13434650' 'VAddy' 'active' '13434651' 'Security Testing for EC-CUBE (Apache)' 'active' '32086225' 'E2E test(Throttoling) for EC-CUBE' 'active' '42360152,
+symfony/polyfill-php81,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/proxy-manager-bridge,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+twigphp/twig-extra-bundle,,If you found any issues that might have security implications please send a' 'report to securityatsymfonycom DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'The full Security Policy is described in the official documentation
+gimler/symfony-rest-edition,,
+symfony/polyfill-apcu,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+sensiolabs/SensioGeneratorBundle,,
+symplify/symplify,Unit Tests' 'active' '423504' 'Split Tests' 'active' '448287' 'Code Analysis' 'active' '1789338' 'Lock Threads' 'active' '3199341' 'Split Monorepo' 'active' '3488667' 'Rector' 'active' '4789304' 'Weekly Pull Requests' 'active' '4959051' 'Reproduce' 'active' '9218088' 'Check Active Classes' 'active' '14055025' 'Downgraded Packages' 'active' '31942528,
+getsentry/sentry-symfony,Continuous Integration' 'active' '2830310' 'Code style and static analysis' 'active' '4121292' 'Prepare Release' 'active' '5994924' 'close stale issues/PRs' 'active' '17847488,RReeppoorrttiinngg SSeeccuurriittyy IIssssuueess' 'If youve found a security issue in Sentry or in our supported SDKs you can' 'submit your report with one of the options below' '    Using GitHubs private vulnerabilty reporting feature on the' '      corresponding repository' '    Via email to securitysentryio' '     We prefer reports via GitHubs private vulnerability reporting' 'Please include as much information as possible in your report to better help us' 'understand and resolve the issue' '     Where the security issue exists ie Sentry SaaS a Sentrysupported SDK' '      infrastructure etc' '     The type of issue ex SQL injection crosssite scripting missing' '      authorization etc' '     Full paths or links to the source files where the security issue exists' '      if possible' '     Any special configuration required to reproduce the issue' '     Stepbystep instructions to reproduce the issue' '     Proof of concept or exploit code if available' 'If you need to encrypt sensitive information sent to us please use our PGP' 'key' 'E CA E  AB ED D FC D BEB
+sulu/sulu-standard,,
+liip/LiipFunctionalTestBundle,QA' 'active' '25611459' 'Tests' 'active' '6121833,
+oroinc/platform,,
+letwang/HookPHP,pages-build-deployment' 'active' '23059166,
+oroinc/crm,,
+symfony/notifier,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+sonata-project/EntityAuditBundle,Lint' 'active' '5774987' 'Quality assurance' 'active' '11576459' 'Stale' 'active' '5790208' 'Test on platforms' 'active' '11407535' 'Test' 'active' '5768171,
+1up-lab/OneupFlysystemBundle,CI' 'active' '3151210' 'Static analysis' 'active' '16045384,
+1up-lab/OneupUploaderBundle,CI' 'active' '603986,
+hgraca/explicit-architecture-php,,
+Haehnchen/idea-php-laravel-plugin,Build' 'active' '5802953,
+markitosgv/JWTRefreshTokenBundle,Run Tests' 'active' '10855405,
+jorge07/ddd-playground,Checkout ' 'active' '172793,
+phpstan/phpstan-symfony,Build' 'active' '4225069' 'Create tag' 'active' '30161786' 'Lock Issues' 'active' '8658290' 'Toot release' 'active' '43459625' 'Tweet release' 'active' '18037191' 'Create release' 'active' '4225765,
+symfony/ux,Symfony UX Turbo' 'active' '6313178' 'Symfony UX' 'active' '3925230,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+ThomasBerends/symfony-certification-preparation-list,pages-build-deployment' 'active' '43023434,
+symfony/skeleton,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+minkphp/MinkBrowserKitDriver,CI' 'active' '14094939,
+webdevops/php-docker-boilerplate,,
+Payum/PayumBundle,Unit Tests' 'active' '7341135,
+usetania/tania,,
+ElliottLandsborough/dog-ceo-api,,
+api-platform/api-pack,,If you have found any issues that might have security implications please read' 'reporting instructions in our security policy' 'PPLLEEAASSEE DDOO NNOOTT PPUUBBLLIISSHH SSEECCUURRIITTYY RREEPPOORRTTSS PPUUBBLLIICCLLYY
+thecodingmachine/graphqlite,Continuous Integration' 'active' '2381630' 'Doc generation' 'active' '2396842' 'pages-build-deployment' 'active' '16569487,
+symfony/workflow,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+coopcycle/coopcycle-web,Test' 'active' '3944387' 'Build' 'active' '3944467' 'Deploy to production' 'active' '26293661,
+sensiolabs/SensioDistributionBundle,,
+bamarni/symfony-console-autocomplete,CI' 'active' '5999044,
+dunglas/doctrine-json-odm,tests' 'active' '18248615,SSuuppppoorrtteedd VVeerrssiioonnss' 'Security updates are included in new releases only They aarree nnoott bbaacckkppoorrtteedd to' 'previous versions' 'RReeppoorrttiinngg aa VVuullnneerraabbiilliittyy' 'Use Tidelift to report a security issue affecting this package https' 'tideliftcomsecurity
+orhanerday/open-ai,dependabot-auto-merge' 'active' '16676264' 'Check & fix styling' 'active' '16676265' 'Tests' 'active' '16676266' 'Update Changelog' 'active' '16676267,If you discover any security related issues please email orhanerdaygmailcom' 'instead of using the issue tracker
+symfony/password-hasher,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+FriendsOfSymfony/FOSCKEditorBundle,Test' 'active' '4489208,
+dirkaholic/vagrant-php-dev-box,,
+symfony/recipes-contrib,Q&A' 'active' '11143842' 'Cleanup Flex testing endpoint' 'active' '14313556' 'Update Flex endpoint' 'active' '14313557' 'Update Flex Archives' 'active' '16459471,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+EasyCorp/easy-deploy-bundle,,
+certificationy/certificationy,,
+zenstruck/foundry,CI' 'active' '1471225,
+liip/LiipMonitorBundle,CI' 'active' '4176171,
+FriendsOfSymfony/FOSCommentBundle,CI' 'active' '18201070,
+misd-service-development/phone-number-bundle,,
+fre5h/DoctrineEnumBundle,CI' 'active' '7467513,
+ninsuo/symfony-collection,,
+FriendsOfBehat/SymfonyExtension,' 'active' '130016' 'analysis' 'active' '16239564' 'Build' 'active' '3408195,
+sonata-project/SonataMediaBundle,Documentation' 'active' '729508' 'Lint' 'active' '467435' 'Quality assurance' 'active' '10003711' 'Stale' 'active' '630683' 'Symfony Lint' 'active' '17330954' 'Test' 'active' '2336811,
+bolt/core,Code Analysis' 'active' '2743156' 'Assets Code Analysis' 'active' '2909197' 'Unit Tests Checks' 'active' '3876005' 'API & Behavioural Tests (Behat)' 'active' '3876374' 'Accessibility (a11y) Tests' 'active' '4784914' 'Cypress Tests' 'active' '10298050' 'API tests' 'active' '16315106,If you have found a security issue in Bolt please send the details to' 'securityboltcmsio and dont disclose it publicly until we can provide a fix' 'for it If you wish well credit you for finding verified issues when we' 'release the patched version' 'AA nnoottee oonn SSeellff XXSSSS' 'Bolt is a CMS that allows users to edit content on a website As such all' 'aauutthheennttiiccaatteedd uusseerrss can' '     Edit content and depending on the field types insert HTML and CSS in' '      that content with a variety of allowed attributes' '     Depending on the user level Edit template files and insert HTML CSS' '      and javascript in those' '     Upload files to the site which will become publicly available In the' '      default settings this includes PDF and SVG files' 'We see these functionalities as ffeeaattuurreess and not as security issues Please' 'report the mentioned items only if they can be performed by nonauthorized' 'users or other exploitable vulnerabilities' 'Thanks
+symfony/lock,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+sonata-project/SonataDoctrineORMAdminBundle,Documentation' 'active' '541144' 'Lint' 'active' '465384' 'Quality assurance' 'active' '2794197' 'Stale' 'active' '630675' 'Symfony Lint' 'active' '17330944' 'Test on platforms' 'active' '7494523' 'Test' 'active' '2336797,
+sonata-project/exporter,Documentation' 'active' '729464' 'Lint' 'active' '500799' 'Quality assurance' 'active' '13192607' 'Stale' 'active' '630669' 'Test' 'active' '2336803,
+api-platform/schema-generator,CI' 'active' '8647302' 'Create Release and Upload Release Asset' 'active' '8647303,If you have found any issues that might have security implications please read' 'reporting instructions in our security policy' 'PPLLEEAASSEE DDOO NNOOTT PPUUBBLLIISSHH SSEECCUURRIITTYY RREEPPOORRTTSS PPUUBBLLIICCLLYY
+8p/EightPointsGuzzleBundle,CI' 'active' '19127732' 'PHPUnit' 'active' '19128841,
+certificationy/certificationy-cli,Code Quality' 'active' '11256416,
+sherifabdlnaby/kubephp,continuous-integration' 'active' '16767760' 'Build' ' Test' ' and Scan' 'active' '20665799' 'auto-release' 'active' '20670544' 'Lint' 'active' '20670545,SSuuppppoorrtteedd VVeerrssiioonnss' 'Use this section to tell people about which versions of your project are' 'currently being supported with security updates' 'VVeerrssiioonn SSuuppppoorrtteedd' 'x   ' 'x   ' 'x   ' '    ' 'RReeppoorrttiinngg aa VVuullnneerraabbiilliittyy' 'Use this section to tell people how to report a vulnerability' 'Tell them where to go how often they can expect to get an update on a reported' 'vulnerability what to expect if the vulnerability is accepted or declined' 'etc
+SnaKKo/Fossdroid-Core,,
+symfony/runtime,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+FriendsOfSymfony/FOSHttpCacheBundle,CI' 'active' '4297198' 'Spellcheck' 'active' '13374252,
+sonata-project/SonataBlockBundle,Documentation' 'active' '729423' 'Lint' 'active' '500774' 'Quality assurance' 'active' '2950448' 'Stale' 'active' '630695' 'Symfony Lint' 'active' '22215917' 'Test' 'active' '2336781,
+Behat/Symfony2Extension,,
+lexik/LexikTranslationBundle,Run tests' 'active' '40811909,
+scheb/2fa,CI' 'active' '4543164' 'Split Release' 'active' '7400164,RReeppoorrttiinngg aa VVuullnneerraabbiilliittyy' 'If you think that you have found a security issue in the bundle dont use the' 'bug tracker and dont publish it publicly Instead please report via email to' 'mechristianschebde' 'SSuuppppoorrtteedd VVeerrssiioonnss' 'See the Version Guidance section in READMEmd' 'KKnnoowwnn SSeeccuurriittyy IIssssuueess' 'There are no known security issues in version  or above
+djoos/Symfony-coding-standard,,
+lexik/LexikFormFilterBundle,CI Tests' 'active' '7831284,
+andreia/awesome-symfony,,
+Kunstmaan/KunstmaanBundlesCMS,CI - Frontend' 'active' '4096032' 'CI' 'active' '4096033' 'Code quality' 'active' '4096031' 'Split up the monorepo into subrepositories' 'active' '22825317,RReeppoorrttiinngg aa VVuullnneerraabbiilliittyy' 'Please report security issues to cmskunstmaanbe
+doctrine/DoctrineMongoDBBundle,Coding Standards' 'active' '3122366' 'Continuous Integration' 'active' '3907693' 'Lint' 'active' '641883' 'Automatic Releases' 'active' '2607043' 'Static Analysis' 'active' '11079724,
+symfony/assetic-bundle,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony-cmf/cmf-sandbox,,
+akeneo/pim-community-standard,,
+weeshop/WeeShop,,
+symfony/mercure,static analysis' 'active' '6904515' 'unit tests' 'active' '6904516,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+Maxlab/stacker,,
+stwe/DatatablesBundle,,
+andreia/symfony-cheat-sheets,,
+symfony/security-acl,CI' 'active' '8452924' 'Integration tests' 'active' '18435395' 'Static analysis' 'active' '11354363,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/symfony-installer,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/uid,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+Limenius/symfony-react-sandbox,,
+zenstruck/schedule-bundle,CI' 'active' '173462,
+ezsystems/ezplatform,Browser tests' 'active' '15406027' 'Create Release for tag' 'active' '8091797,HHooww ttoo rreeppoorrtt sseeccuurriittyy vvuullnneerraabbiilliittiieess' 'httpsdocibexacoenlatestguidereportingissues' 'SSeeccuurriittyy aaddvviissoorriieess' 'httpsdevelopersibexacosecurityadvisories' 'SSeeccuurriittyy ppoolliiccyy' 'httpswwwibexacosoftwareinformationsecurity' 'SSeeccuurriittyy bblloogg ppoossttss' 'httpswwwibexacotopicsid
+sonata-project/cache,Lint' 'active' '500775' 'Stale' 'active' '630656' 'Test' 'active' '4706584' 'Quality assurance' 'active' '18790411,
+j-guyon/CommandSchedulerBundle,,
+jarves/jarves,,
+sonata-project/SonataUserBundle,Documentation' 'active' '540101' 'Lint' 'active' '500825' 'Quality assurance' 'active' '12835214' 'Stale' 'active' '630714' 'Symfony Lint' 'active' '17330979' 'Test' 'active' '2336833,
+prestaconcept/PrestaSitemapBundle,Tests' 'active' '2176299,
+pehapkari/awesome-symfony-education,,
+DamienHarper/auditor-bundle,auditor-bundle 4.x CI' 'active' '14641697' 'auditor-bundle 5.x CI' 'active' '14641698' 'auditor-bundle 6.x CI' 'active' '42168990,
+a2lix/TranslationFormBundle,CI' 'active' '387336,
+ongr-io/ElasticsearchBundle,,
+ecotoneframework/ecotone,,
+aws-samples/php-examples-for-aws-lambda,,If you discover a potential security issue in this project we ask that you' 'notify AWSAmazon Security via our vulnerability reporting page or directly via' 'email to awssecurityamazoncom Please do nnoott create a public GitHub issue
+Elao/PhpEnums,CI' 'active' '9709320,
+certificationy/symfony-pack,,
+symlex/symlex,,
+symfony-si/symfony-must-watch,,
+liip/LiipThemeBundle,,
+symfony/ux-turbo,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony-cmf/Routing,Test application' 'active' '5221658,
+ekino/EkinoNewRelicBundle,CI' 'active' '3950854,
+theofidry/AliceDataFixtures,Test' 'active' '4617220,
+symfony/twig-pack,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+sonata-project/sandbox,Lint' 'active' '1906989' 'Quality assurance' 'active' '1906990' 'Test' 'active' '2905122' 'Stale' 'active' '2905851,
+tarlepp/symfony-flex-backend,CI' 'active' '456042' 'Vulnerability Scan' 'active' '993727,
+medz/cors,PHP Composer' 'active' '1012221,
+symfony/doctrine-messenger,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+web-auth/webauthn-framework,Quality' 'active' '398441' 'Tests with Code Coverage' 'active' '1205125' 'Functional Tests' 'active' '3774461' 'Lowest versions tests' 'active' '3774462' 'Unit Tests' 'active' '3774463' 'Integrate' 'active' '30706996' 'gitsplit' 'active' '33558843' 'Merge me!' 'active' '33558844' 'Automatic Releases' 'active' '33558845' 'tweet' 'active' '35745428,SSuuppppoorrtteedd VVeerrssiioonnss' 'VVeerrssiioonn SSuuppppoorrtteedd' 'xx   ' 'x   ' ' x ' 'RReeppoorrttiinngg aa VVuullnneerraabbiilliittyy' 'If you think you have found a security issue DO NOT open an issue You MUST' 'email your issue security AT spomkylabscom
+Exercise/HTMLPurifierBundle,Quality and Assurance' 'active' '24396607,
+sonata-project/sonata-doctrine-extensions,Lint' 'active' '500787' 'Stale' 'active' '630720' 'Test' 'active' '2336792' 'Quality assurance' 'active' '3357549' 'Symfony Lint' 'active' '17330624,
+dunglas/DunglasActionBundle,,
+helios-ag/FMElfinderBundle,Changelog' 'active' '18375521' 'PHPStan' 'active' '12231464' 'Tests - Linux' 'active' '12231465,
+lexik/LexikMaintenanceBundle,,
+contao/contao,PR' 'active' '27197532' 'CI' 'active' '18532,Security is a top priority for Contao Please help us make the system more' 'secure' 'RReeppoorrttiinngg aa sseeccuurriittyy iissssuuee' 'If you think that you have found a security issue in Contao please write an e' 'mail to sseeccuurriittyy aatt ccoonnttaaoooorrgg Emails sent to this address are forwarded to' 'a private channel of the Contao core team' 'Never disclose any information about a vulnerability in the public web blog' 'posts tweets GitHub issues etc before the vulnerability has been' 'acknowledged and fixed in a new Contao release' 'RReessoollvviinngg pprroocceessss' 'For each report we first try to confirm the vulnerability When it is' 'confirmed the core team works on a solution following these steps' '    Send an acknowledgement to the reporter' '    Work on a patch' '    Get a CVE identifier from mitreorg' '    Publish a security announcement on contaoorg' '    Send the patch to the reporter for review' '    Apply the patch to all maintained versions of Contao' '    Release new versions for all affected versions' '    Announce the new versions and the vulnerability on contaoorg' '    Update the public security advisories database' 'BBuugg bboouunnttyy' 'The Contao Association rewards reporters of confirmed vulnerabilities with a' 'security bounty of  Euros' 'SSeeccuurriittyy aaddvviissoorriieess' 'Check the security advisories database for a list of all security' 'vulnerabilities that were already found and fixed in Contao
+php-enqueue/enqueue-bundle,CI' 'active' '5685862,
+alterphp/EasyAdminExtensionBundle,,
+trikoder/oauth2-bundle,Tests' 'active' '3183075,
+csarrazi/CsaGuzzleBundle,,
+symfony/mercure-bundle,coding style' 'active' '14610696' 'static analysis' 'active' '14610697' 'unit tests' 'active' '14610698,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+koillection/koillection,Build beta image for Docker Hub' 'active' '2960439' 'Build release image for Docker Hub' 'active' '2960440' 'Build dev image for Docker Hub' 'active' '13282154' 'Koillection CI' 'active' '26505641,
+api-platform/demo,Deploy' 'active' '2322251' 'Cleanup' 'active' '2609366' 'CI' 'active' '8341807' 'Docker Scan' 'active' '10191503' 'CD' 'active' '14889867' 'Build' 'active' '28315894,If you have found any issues that might have security implications please read' 'reporting instructions in our security policy' 'PPLLEEAASSEE DDOO NNOOTT PPUUBBLLIISSHH SSEECCUURRIITTYY RREEPPOORRTTSS PPUUBBLLIICCLLYY
+sroze/companienv,,
+unite-cms/unite-cms,,
+Haehnchen/idea-php-annotation-plugin,Java CI with Gradle' 'active' '11173633,
+zikula/core,Build archives' 'active' '32083' 'Build and test' 'active' '19899294' 'Check translations' 'active' '619807' 'Copy Files to Distribution' 'active' '703901' 'pages-build-deployment' 'active' '19945766,RReeppoorrttiinngg aa VVuullnneerraabbiilliittyy' 'To report a vulnerability please send it to the email address vorstandzikula' 'Thank you very much
+endroid/qr-code-bundle,CI' 'active' '86584,
+mmoreram/GearmanBundle,Test' 'active' '21452405,
+SymfonyTest/SymfonyDependencyInjectionTest,Tests' 'active' '13151399,
+javiereguiluz/easy-admin-demo,,
+oroinc/platform-application,,
+Victoire/victoire,,
+phpdish/phpdish,,
+symfony/amqp-messenger,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+inshopgroup/inshop-crm-api,,RReeppoorrttiinngg aa VVuullnneerraabbiilliittyy' 'If you found any vulnerability please send details to the infoinshopgroupcom
+mac-cain13/notificato,,
+aimeos/aimeos-symfony,,
+hubnedav/PrintABrick,,
+BitBagCommerce/SyliusCmsPlugin,Build' 'active' '4347764' 'Coding standard' 'active' '15407646,
+Sylius/Sylius-Standard,Auto-merge' 'active' '4575973' 'Build' 'active' '3928760' 'Build Docker Image' 'active' '26274250' 'Docker Swarm' 'active' '29179588,
+qossmic/rich-model-forms-bundle,CI' 'active' '5413317,
+jolicode/elastically,CI' 'active' '11493291' 'CI' 'active' '11493214,
+sonata-project/SonataIntlBundle,Documentation' 'active' '729505' 'Lint' 'active' '500806' 'Quality assurance' 'active' '14902383' 'Stale' 'active' '630699' 'Test' 'active' '2336809,
+drgomesp/symfony-docker,,
+webmozarts/console-parallelization,CI' 'active' '36058888' 'Tests' 'active' '42219607' 'Lint' 'active' '36109942' 'Tests' 'active' '42219606,
+mac-cain13/daemonizable-command,,
+kevinpapst/AdminLTEBundle,CI' 'active' '1335868,
+jolicode/secret-santa,CI' 'active' '3688906,
+liip/LiipHelloBundle,,
+the-fast-track/book-5.0-1,,
+incentive-factory/iletaitunefoisundev,Continuous integration' 'active' '15913738' 'pages-build-deployment' 'active' '18184600,
+symfony/html-sanitizer,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+sonata-project/SonataPageBundle,Documentation' 'active' '729514' 'Frontend' 'active' '32424829' 'Lint' 'active' '500815' 'Quality assurance' 'active' '15306835' 'Stale' 'active' '630655' 'Symfony Lint' 'active' '17330961' 'Test' 'active' '2336821,
+CMEPW/Smersh,Build container and validate lint/tests' 'active' '12009177,Hello' 'if you find a security bug dont hesitate to report it to the following email' 'address cmepwprotonmailcom' '' 'I would ask you to specify the version used as well as a scenario of' 'exploitation the steps  by  requests by requests' '' 'Thank you in advance for taking the time to read this message to help us to' 'improve this project
+jolicode/GifExceptionBundle,CI' 'disabled_inactivity' '7727175,
+franzose/symfony-ddd-wishlist,,
+omines/datatables-bundle,Mark stale issues and pull requests' 'active' '40867816' 'Tests' 'active' '31986193' 'pages-build-deployment' 'active' '32091313,
+Acrecio/angular-symfony,,
+symfony/symfony1,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+msgphp/msgphp,,
+sulu/skeleton,Test application' 'active' '3830454,
+AdventureLookup/AdventureLookup,CI' 'active' '1428127,Hi Thank you for your interest in AdventureLookups security policy' 'RReeppoorrttiinngg aa VVuullnneerraabbiilliittyy' 'We dont really have a dedicated process for reporting a security' 'vulnerability Please ddoo NNOOTT open a GitHub Issue if you think you found a' 'security vulnerability Instead reach out to Christian Flach cmfcmf by some' 'other means eg via private message on reddit or Twitter or via email' 'address can be found here
+lunetics-org/LocaleBundle,CI' 'active' '41470812,
+bestit/flagception-bundle,,
+kreta/Kreta,,
+thecodingmachine/symfony-vuejs,,
+pborreli/composer-service,,
+symfony/requirements-checker,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+konshensx16/symfony-todo-backend,,
+oroinc/orocommerce,,
+lyrixx/SFLive-Paris2016-Workflow,,
+symplify/package-builder,Auto Closer PR' 'active' '9241725,
+symfony/rate-limiter,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/redis-messenger,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+mykiwi/symfony-bootstrapped,CI' 'active' '166543,
+ofcold/identity-card,PHP Composer' 'active' '2940591,
+craue/CraueConfigBundle,,
+phpzlc/phpzlc,,
+sonata-project/ecommerce,Documentation' 'active' '648506' 'Lint' 'active' '500797' 'Stale' 'disabled_inactivity' '630717' 'Test' 'active' '2336802,
+lechatquidanse/bicing-api,,
+BeWelcome/rox,CI' 'disabled_fork' '1436850' 'trigger mirror to gitlab' 'active' '13768386,
+mmoreram/ControllerExtraBundle,,
+ger86/symfony-docker,,
+wouterj/WouterJEloquentBundle,Tests' 'active' '3170711,
+SymfonyTest/SymfonyConfigTest,Tests' 'active' '13118514,
+sonata-project/SonataNewsBundle,Documentation' 'disabled_inactivity' '729509' 'Lint' 'disabled_inactivity' '500811' 'Quality assurance' 'disabled_inactivity' '13401845' 'Stale' 'disabled_inactivity' '630684' 'Test' 'disabled_inactivity' '2336815,
+eventum/eventum,.github/workflows/tests.yml' 'active' '3316416' 'CI' 'active' '6354037' '.github/workflows/release.yml' 'active' '11846279,RReeppoorrttiinngg aa VVuullnneerraabbiilliittyy' 'If you discover a security vulnerability in Eventum please submit a report via' 'huntrdev Bounties and CVEs are automatically managed and allocated via the' 'platform' 'Alternatively you can report security issues to glenpldlinuxorg
+dunglas/DunglasAngularCsrfBundle,,
+nelmio/NelmioSolariumBundle,Build' 'active' '15287355,
+artgris/FileManagerBundle,Tests - Linux' 'active' '17328647' 'Tests - Windows' 'active' '17330278,
+doctrine/DoctrinePHPCRBundle,Test application' 'active' '5041331,
+symfony-cmf/routing-bundle,Test application' 'active' '5221693,
+symfony/cli,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+raulconti/symfony-3-certification-guide,,
+sonata-project/SonataNotificationBundle,Documentation' 'disabled_inactivity' '545672' 'Lint' 'disabled_inactivity' '500813' 'Quality assurance' 'disabled_inactivity' '8216602' 'Stale' 'disabled_inactivity' '630659' 'Test' 'disabled_inactivity' '2336817,
+djoos/EscapeWSSEAuthenticationBundle,,
+moay/server-for-symfony-flex,,
+Orbitale/Rymfony,Build' 'active' '6964946' 'CI' 'active' '3782727,
+eko/FeedBundle,Continuous Integration' 'active' '6191496,
+CoreSphere/ConsoleBundle,,
+rollerworks/PasswordStrengthBundle,Full CI process' 'active' '4807950,
+SimpleBus/symfony-bridge,,
+alexdebril/rss-atom-bundle,,
+rollerworks/PasswordStrengthValidator,Full CI process' 'active' '4413003,
+gregurco/jobeet-tutorial,,
+yoanbernabeu/Cronify,Pipeline-CI' 'active' '21545470,
+bencagri/symfony-ddd,,
+Part-DB/Part-DB-symfony,Build' ' Test' ' and Publish' 'active' '142634' 'CodeQL' 'active' '2099551' 'Docker Image Build' 'active' '6711567' 'Static analysis' 'active' '1382879' 'PHPUnit Tests' 'active' '1381987,SSuuppppoorrtteedd VVeerrssiioonnss' 'This is an alpha version without releases yet Only the newest version from the' 'master branch is supported' 'RReeppoorrttiinngg aa VVuullnneerraabbiilliittyy' 'If you find an vulnerability contact the maintainer directly Email' 'securitypartdbde
+Sylius/ShopApiPlugin,Build' 'active' '5885260,
+formapro/JsFormValidatorBundle,,
+Limenius/LiformBundle,,
+sonata-project/SonataSeoBundle,Documentation' 'active' '729516' 'Lint' 'active' '500816' 'Quality assurance' 'active' '13060238' 'Quality assurance' 'active' '131426' 'Stale' 'active' '630654' 'Test' 'active' '2336822,
+zenstruck/browser,CI' 'active' '3862484,
+Limenius/Liform,,
+msgphp/symfony-demo-app,,
+mariusbalcytis/webpack-bundle,,
+craue/CraueGeoBundle,,
+j0k3r/banditore,CS' 'active' '3687795' 'CI' 'active' '3687796' 'Coverage' 'active' '15615873' 'Auto-merge Dependabot JS' 'active' '36402192,
+contao/core-bundle,Autoclose' 'active' '115561,Security is a top priority for Contao Please help us make the system more' 'secure' 'RReeppoorrttiinngg aa sseeccuurriittyy iissssuuee' 'If you think that you have found a security issue in Contao please write an e' 'mail to sseeccuurriittyy aatt ccoonnttaaoooorrgg Emails sent to this address are forwarded to' 'a private channel of the Contao core team' 'Never disclose any information about a vulnerability in the public web blog' 'posts tweets GitHub issues etc before the vulnerability has been' 'acknowledged and fixed in a new Contao release' 'RReessoollvviinngg pprroocceessss' 'For each report we first try to confirm the vulnerability When it is' 'confirmed the core team works on a solution following these steps' '    Send an acknowledgement to the reporter' '    Work on a patch' '    Get a CVE identifier from mitreorg' '    Publish a security announcement on contaoorg' '    Send the patch to the reporter for review' '    Apply the patch to all maintained versions of Contao' '    Release new versions for all affected versions' '    Announce the new versions and the vulnerability on contaoorg' '    Update the public security advisories database' 'BBuugg bboouunnttyy' 'The Contao Association rewards reporters of confirmed vulnerabilities with a' 'security bounty of  Euros' 'SSeeccuurriittyy aaddvviissoorriieess' 'Check the security advisories database for a list of all security' 'vulnerabilities that were already found and fixed in Contao
+symfony/ldap,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+mmucklo/DtcQueueBundle,,
+acantepie/umbrella,split' 'active' '8285373' 'Linter: Js' 'active' '15162017' 'Linter: PHP' 'active' '15162018' 'Static analysis - phpstan' 'active' '15162019' 'PHPUnit' 'active' '15162020' 'Static analysis - psalm' 'active' '15162021' 'pages-build-deployment' 'active' '17595564,
+facile-it/paraunit,CI' 'active' '2900346' 'pages-build-deployment' 'active' '28235262,
+nilportugues/symfony-jsonapi,,
+Rebolon/php-sf-flex-webpack-encore-vuejs,,
+kreait/firebase-bundle,👻 Stale' 'disabled_inactivity' '1017423' 'Tests' 'active' '15814552,
+tattali/CalendarBundle,,
+jorge07/alpine-php,' 'active' '127219' 'PR checks' 'active' '551441' 'Release' 'active' '1035097,
+prooph/event-store-symfony-bundle,Static analyse' 'active' '10662738' 'Tests' 'active' '10662739,
+BitBagCommerce/SyliusElasticsearchPlugin,Build' 'active' '4763946,
+apisearch-io/symfony-async-kernel,,
+maximilienGilet/notification-bundle,,
+nexylan/slack-bundle,,
+rectorphp/rector-symfony,Code Analysis' 'active' '6882175' 'Tests' 'active' '6874602,
+Payum/PayumServer,,
+liip/LiipCacheControlBundle,,
+rollerworks/search,Full CI process' 'active' '1001202,
+Phobetor/rabbitmq-supervisor-bundle,,
+symfony/polyfill-php55,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+comur/ComurImageBundle,,
+zusam/zusam,,
+auth0/jwt-auth-bundle,Repository Maintenance' 'active' '35098191' 'Semgrep' 'active' '29651419,This document outlines the Responsible Disclosure Program for Auth open source' 'software' 'RReessppoonnssiibbllee DDiisscclloossuurree PPoolliiccyy' 'At Auth we take security seriously and consider it a top priority Since a' 'public disclosure of a security vulnerability could put the entire Auth' 'community at risk we require that potential vulnerabilities are kept' 'confidential until they are confirmed and fixed We appreciate your efforts in' 'keeping Auth and its users safe by responsibly disclosing any security' 'vulnerability Rest assured we will make every effort to acknowledge your' 'contributions' 'RReeppoorrttiinngg aa vvuullnneerraabbiilliittyy' 'Any security related issue should be reported to Auth via the form at the' 'bottom of the Responsible Disclosure Policy page' 'If individuals prefer to directly communicate with the Auth security team' 'they are invited to send an email to securityauthcom For encrypted' 'communication you can download our PGP key from here
+EasyCorp/easy-doc-bundle,,
+krzysiekpiasecki/Gentelella,,
+symfony/marketing,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+ergonode/backend,Tests' 'active' '3593813,If you think you found a security vulnerability contact us at' 'contactergonodecom
+FriendsOfSylius/SyliusImportExportPlugin,Build' 'active' '6760752,
+symfony/symfony1-docs,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+SymfonyTest/symfony-bundle-test,Tests' 'active' '3221140' 'Static analysis' 'active' '11745475,
+Guikingone/SchedulerBundle,Deptrac' 'active' '12923880' 'Code style' 'active' '5770136' 'Dagger - Style' 'active' '23250162' '.github/workflows/daily.yml' 'active' '4925594' 'Docker linting' 'active' '15680488' 'Infection' 'active' '5770135' 'PHPUnit' 'active' '5770134' 'Rector' 'active' '5770132' 'Security' 'active' '6794905' 'Static analysis' 'active' '5770133,
+artprima/prometheus-metrics-bundle,Coding Style' 'active' '4438371' 'PHP' 'active' '3720437' 'Symfony' 'active' '3732751,
+FriendsOfBehat/CrossContainerExtension,,
+slashfan/symfony-realworld-example-app,CI' 'active' '11999397' 'SPECS' 'active' '12000287,
+Arrrray/pd-admin,,
+symfony/polyfill-php54,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/acl-bundle,CI' 'active' '8717093' 'Static analysis' 'active' '11397239,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+EasyCorp/easy-security-bundle,,
+coloso/symfony-docker,,
+fruitcake/php-cors,Code Coverage' 'active' '20250279' 'Unit Tests' 'active' '20250278' 'Unit Tests' 'active' '20211289,
+openbridge/ob_php-fpm,,
+superdesk/web-publisher,CI' 'active' '4557515' 'Automatic Rebase' 'active' '1079956,
+yceruto/symfony-ddd-skeleton,,
+beetboxvm/beetbox,,
+nodefony/nodefony-starter,,
+bayne/symfony-angular-todomvc,,
+swarrot/SwarrotBundle,Static analysis' 'active' '123432' 'Unit test' 'active' '16342344,
+symfonycorp/connect,,If you found any issues that might have security implications please send a' 'report to securityatsymfonycom DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'The full Security Policy is described in the official documentation
+sampart/WhiteOctoberTCPDFBundle,,
+prooph/service-bus-symfony-bundle,,
+PUGX/PUGXAutoCompleterBundle,build' 'active' '4135958,
+andreia/symfony-docs-pt-BR,,
+sydorenkovd/symfony_recipes,,
+sensiolabs/SensioBuzzBundle,,
+King2500/symfony-phpstorm-meta,,
+StenopePHP/Stenope,Build static' 'active' '3873497' 'Generate dist files' 'active' '3873498' 'Update dist dependencies' 'active' '3873500' 'CI' 'active' '4159869' 'pages-build-deployment' 'active' '17667474,
+notFloran/mjml-bundle,Coding Standard' 'active' '5237754' 'Tests' 'active' '5238203,
+carlosas/docker-for-symfony,,
+codereviewvideos/symfony-3-rest-api-example,,
+sonata-project/form-extensions,Lint' 'active' '500802' 'Stale' 'active' '630685' 'Documentation' 'active' '729500' 'Test' 'active' '2336806' 'Quality assurance' 'active' '13337222' 'Frontend' 'active' '25588864,
+lhapaipai/vite-bundle,CI' 'active' '32343042,
+xiidea/EasyAuditBundle,,
+sonata-project/SonataClassificationBundle,Documentation' 'active' '551880' 'Lint' 'active' '500777' 'Quality assurance' 'active' '10594784' 'Stale' 'active' '630711' 'Symfony Lint' 'active' '17330620' 'Test' 'active' '2336782,
+phpsword/sword-bundle,Test' 'active' '34015029,
+Lctrs/apiplatform-ddd-cqrs-es-demo,CI/CD' 'active' '1504686' 'Triage' 'active' '1532857,
+yoanbernabeu/Roadmap-Dev-Symfony,documentation' 'active' '15035608' 'pages-build-deployment' 'active' '35903172,
+Coderberg/ResidenceCMS,Lint' 'active' '17428853' 'Testing with MariaDB' 'active' '12153653' 'Testing with MySQL' 'active' '17669726' 'OSSAR' 'active' '4319328' 'Testing with PostgreSQL' 'active' '2136742,
+pomm-project/pomm-bundle,,
+regniblod/symfony-ddd-edition,,
+brefphp/examples,,
+contao/contao-manager,pages-build-deployment' 'active' '17337288,Security is a top priority for Contao Please help us make the system more' 'secure' 'RReeppoorrttiinngg aa sseeccuurriittyy iissssuuee' 'If you think that you have found a security issue in Contao please write an e' 'mail to sseeccuurriittyy aatt ccoonnttaaoooorrgg Emails sent to this address are forwarded to' 'a private channel of the Contao core team' 'Never disclose any information about a vulnerability in the public web blog' 'posts tweets GitHub issues etc before the vulnerability has been' 'acknowledged and fixed in a new Contao release' 'RReessoollvviinngg pprroocceessss' 'For each report we first try to confirm the vulnerability When it is' 'confirmed the core team works on a solution following these steps' '    Send an acknowledgement to the reporter' '    Work on a patch' '    Get a CVE identifier from mitreorg' '    Publish a security announcement on contaoorg' '    Send the patch to the reporter for review' '    Apply the patch to all maintained versions of Contao' '    Release new versions for all affected versions' '    Announce the new versions and the vulnerability on contaoorg' '    Update the public security advisories database' 'BBuugg bboouunnttyy' 'The Contao Association rewards reporters of confirmed vulnerabilities with a' 'security bounty of  Euros' 'SSeeccuurriittyy aaddvviissoorriieess' 'Check the security advisories database for a list of all security' 'vulnerabilities that were already found and fixed in Contao
+mybuilder/cronos-bundle,Test' 'active' '35652477,
+CristalTeam/php-api-wrapper,,
+lexik/LexikMailerBundle,,
+symfonycorp/insight,Insight SDK' 'active' '38904222' 'Insight SDK (release)' 'active' '38913666,If you found any issues that might have security implications please send a' 'report to securityatsymfonycom DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'The full Security Policy is described in the official documentation
+itoffers-online/portal,Github CI' 'active' '175124' 'Github CI' 'active' '73505,
+garak/electron-symfony,,
+chaos-php/chaos-monkey-symfony-bundle,,
+APY/APYBreadcrumbTrailBundle,CI' 'active' '1522907,
+KnpLabs/DictionaryBundle,,
+enhavo/enhavo,Continuous Integration' 'active' '7373895' 'Release' 'active' '8511884' 'Push substrees' 'active' '8511885,' 'SSeeccuurriittyy ppoolliicciieess' 'This document outlines security procedures and general policies for the enhavo' 'open source projects as found on httpsgithubcomenhavo' 'RReeppoorrttiinngg aa vvuullnneerraabbiilliittyy' 'The enhavo team and community take all security vulnerabilities seriously' 'Thank you for improving the security of our open source software We appreciate' 'your efforts and responsible disclosure' 'Please do not use the issue tracker and do not post it publicly Report' 'security vulnerabilities by emailing the enhavo security team at' 'securityenhavocom' 'Report security vulnerabilities in thirdparty modules to the person or team' 'maintaining the module
+FriendsOfDoctrine/dbal-clickhouse,Static analysis' 'active' '38378092' 'Tests' 'active' '38378093,
+sonata-project/SonataFormatterBundle,Documentation' 'active' '729496' 'Lint' 'active' '500800' 'Quality assurance' 'active' '11022645' 'Quality assurance' 'active' '107315' 'Stale' 'active' '630696' 'Symfony Lint' 'active' '28017896' 'Test' 'active' '2336805,
+sonata-project/twig-extensions,Documentation' 'active' '729528' 'Lint' 'active' '500824' 'Quality assurance' 'active' '13344718' 'Stale' 'active' '630688' 'Symfony Lint' 'active' '17330968' 'Test' 'active' '2336830,
+marellocommerce/marello-application,,
+mnapoli/fluent-symfony,,
+craue/TwigExtensionsBundle,,
+coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin,CI' 'active' '887469,
+rdohms/dms-filter-bundle,Check Codestyle' 'active' '11580948' 'Unit Tests' 'active' '3387033,
+a2lix/AutoFormBundle,CI' 'active' '388016,
+ernestwisniewski/kbin,,
+neo4j-php/neo4j-symfony,Tests' 'active' '4806794' 'Static analysis' 'active' '4806795,
+geerlingguy/docker-examples,,
+bayareawebpro/wp-lumen-plugin-framework,,
+cmen/CMENGoogleChartsBundle,CI' 'active' '347565,
+thecodingmachine/symfony-boilerplate,documentation' 'active' '3405736' 'pages-build-deployment' 'active' '17668713,
+sonata-project/SonataTranslationBundle,Documentation' 'active' '561565' 'Lint' 'active' '500821' 'Quality assurance' 'active' '2851143' 'Stale' 'active' '630682' 'Symfony Lint' 'active' '17330965' 'Test' 'active' '2336828,
+mxkh/symfony-api-platform-ddd-cqrs-boilerplate,,
+steevanb/doctrine-stats,CI' 'active' '15683226' 'Release' 'active' '15765715,
+bitnami/bitnami-docker-symfony,Close stale issues and PRs' 'active' '8071590,
+liip/LiipDoctrineCacheBundle,,
+friends-of-presta/fop_console,PHPStan' 'active' '4379442' 'Php cs fixer' 'active' '4396863' 'Build & Release draft' 'active' '10607921' 'Yaml lint/checker' 'active' '11161402' 'PHP tests' 'active' '11218541' 'PHPUnit' 'active' '14184630,
+Monofony/SymfonyStarter,,
+stephanediondev/elasticsearch-admin,build' 'active' '2303814' 'pages-build-deployment' 'active' '16485934,
+piotr-jura-udemy/symfony-4-basics,,
+sonata-project/SonataCacheBundle,Documentation' 'disabled_inactivity' '729435' 'Lint' 'disabled_inactivity' '500776' 'Quality assurance' 'disabled_inactivity' '15027183' 'Stale' 'disabled_inactivity' '630697' 'Test' 'disabled_inactivity' '4709354,
+petkopara/PetkoparaCrudGeneratorBundle,,
+stefandoorn/sitemap-plugin,Build' 'active' '16211479' 'Auto-merge' 'active' '16211485' 'BC Check' 'disabled_manually' '7042041,
+benaich/Doctors,,
+api-platform/activity-pub,,If you have found any issues that might have security implications please read' 'reporting instructions in our security policy' 'PPLLEEAASSEE DDOO NNOOTT PPUUBBLLIISSHH SSEECCUURRIITTYY RREEPPOORRTTSS PPUUBBLLIICCLLYY
+Monofony/Monofony,Application' 'active' '4714238' 'Packages' 'active' '4730797' 'Packages Split' 'active' '39458631,
+Gatsbylius/Gatsbylius,,
+krzysiekpiasecki/Symfonator,,
+symfony/mailgun-mailer,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+yosymfony/resource-watcher,,
+fansible/ansible-provisioning-tywin,,
+Smart-Core/AcceleratorCacheBundle,,
+DZunke/FeatureFlagsBundle,CI' 'active' '6916633,
+fre5h/CentrifugoBundle,CI' 'active' '8479650,
+meilisearch/meilisearch-symfony,Pre-Release Tests' 'active' '19984323' 'Pre-Release Tests' 'active' '19985044' 'Release Drafter' 'active' '1824147' 'Tests' 'active' '1748135,Meilisearch takes the security of our software products and services seriously' 'If you believe you have found a security vulnerability in any Meilisearchowned' 'repository please report it to us as described below' 'RReeppoorrttiinngg sseeccuurriittyy iissssuueess' ' Please do not report security vulnerabilities through public GitHub issues' '' 'Instead please kindly email us at securitymeilisearchcom' 'Please include the requested information listed below as much as you can' 'provide to help us better understand the nature and scope of the possible' 'issue' '     Type of issue eg buffer overflow SQL injection crosssite scripting' '      etc' '     Full paths of source files related to the manifestation of the issue' '     The location of the affected source code tagbranchcommit or direct' '      URL' '     Any special configuration required to reproduce the issue' '     Stepbystep instructions to reproduce the issue' '     Proofofconcept or exploit code if possible' '     Impact of the issue including how an attacker might exploit the issue' 'This information will help us triage your report more quickly' 'You will receive a response from us within  hours If the issue is confirmed' 'we will release a patch as soon as possible depending on complexity' 'PPrreeffeerrrreedd llaanngguuaaggeess' 'We prefer all communications to be in English
+hashlips-lab/safe-nft-metadata-provider,PHP CI' 'active' '17288713,
+shopsys/http-smoke-testing,Checks and tests' 'active' '5472820,
+KonstantinCodes/messenger-kafka,Tests' 'active' '3247366,
+ilios/ilios,Continuous Integration' 'active' '505459' 'Report Code Coverage' 'active' '506421' 'Future PHP Versions' 'active' '622396' 'Deploy Latest Containers' 'active' '2062607' 'Deploy Tagged Version' 'active' '2121874' 'Update Dependencies' 'active' '3121607' 'Release Notes' 'active' '14731907' 'Tag Version' 'active' '14731908' 'Infection Test' 'active' '26072411' 'Build and Tag Nightly' 'active' '26378917' 'Dependabot auto-merge' 'active' '28259421,
+ecotoneframework/php-ddd-cqrs-event-sourcing-symfony-laravel-ecotone,,
+symfony/clock,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+Sylius/SyliusMailerBundle,Build' 'active' '3507087,
+IndraGunawan/api-rate-limit-bundle,Continuous Integration' 'active' '7953191' 'PHP CS Fixer' 'active' '7953190,
+henter/HenterGEO,,
+yoanbernabeu/Symfony-And-Docker-Makefile-Taskfile,,
+radutopala/skype-bot-php,,
+sonata-project/SonataDoctrineMongoDBAdminBundle,Documentation' 'active' '729451' 'Lint' 'active' '500790' 'Quality assurance' 'active' '1044609' 'Stale' 'active' '630672' 'Symfony Lint' 'active' '17330630' 'Test' 'active' '2336795,
+KejawenLab/SemartApiSkeleton,,
+jakzal/phpunit-injector,Build' 'active' '3938346,
+sunrise-php/http-header-kit,,
+minkphp/MinkBundle,,
+contributte/translation,build' 'active' '3651986,Do not publish security reports publicy please' 'If you found anything please send a report to sulcmilsecurityatgmailcom
+giansalex/lycet,Symfony' 'active' '34206277,
+josecelano/ddd-symfony-sample,,
+php-enqueue/async-event-dispatcher,CI' 'active' '5685866,
+hakanersu/codecourse-downloader,,
+j0k3r/f43.me,CS' 'active' '3675172' 'CI' 'active' '3675900' 'Coverage' 'active' '15615442' 'Auto-merge Dependabot JS' 'active' '36401754,
+mtarld/api-platform-ms-bundle,CI' 'active' '2878732,
+aleksblendwerk/pingcrm-symfony,CI' 'active' '3847048,
+coopTilleuls/UrlSignerBundle,CI' 'active' '5277721,If you found any issues that might have security implications please send a' 'report to contactsecurityatlestilleulscoop DO NOT PUBLISH SECURITY REPORTS' 'PUBLICLY
+lexik/LexikCurrencyBundle,,
+BitBagCommerce/SyliusWishlistPlugin,Build' 'active' '4434773,
+kachkaev/KachkaevAssetsVersionBundle,,
+lcp0578/cheat-sheets,,
+coopTilleuls/CoopTilleulsForgotPasswordBundle,CI' 'active' '5030,
+symfony/ux-chartjs,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+mmoreram/symfony-bundle-dependencies,,
+nucleos/NucleosUserBundle,Continuous Integration' 'active' '103964' 'Documentation' 'active' '662282' 'Automatic Releases' 'active' '5674965,
+greencheap/greencheap,PHP Composer' 'active' '1821643,
+PUGX/PUGXGeneratorBundle,,
+symfony/stimulus-bridge,Symfony UX' 'active' '3938359,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+fabwu/dddinaction,,
+dunglas/solid-client-php,ci' 'active' '24486676,
+florianv/symfony-swap,,
+dykyi-roman/crossword,,
+osteel/openapi-httpfoundation-testing,CI' 'active' '19332592' 'Pull request analysis' 'active' '7215179,
+HackThisSite/CryptoPaste,,
+helios-ag/FMBbCodeBundle,,
+steevanb/doctrine-read-only-hydrator,,
+Haehnchen/idea-php-shopware-plugin,,
+helios-ag/elfinder-component,,
+borsaco/TelegramBotApiBundle,pages-build-deployment' 'active' '18786877,
+symplify/symfony-static-dumper,Auto Closer PR' 'active' '9241764,
+SymfonyCon/2022-talks,,
+JeffreyVerreckt/Symfony4-REST-API,,
+sulu/sulu-minimal,Test application' 'active' '4931143,
+odiseoteam/SyliusVendorPlugin,Build' 'disabled_inactivity' '6796637,
+csarrazi/guzzle-stopwatch-middleware,,
+nicklog/devliver,,
+SymfonyCon/2019-talks,,
+sulu/SuluFormBundle,Crowdin Upload' 'active' '1773572' 'Test application' 'active' '4413077,
+symfony/sendgrid-mailer,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+Orbitale/CmsBundle,PHP CI' 'active' '15246830,
+dunglas/frankenphp-demo,,
+Bee-Lab/BeelabRecaptcha2Bundle,build' 'active' '5177561,
+pifaace/symfony-blog,,
+CawaKharkov/symfony-micro,,
+BoShurik/TelegramBotBundle,Static Analysis' 'active' '11154936' 'CS Check' 'active' '11154935' 'Tests' 'active' '11154937,
+maldoinc/doctrine-filter,Lint' 'active' '41810616' 'Unit tests' 'active' '41810615,
+Sylius/AdminOrderCreationPlugin,Build' 'active' '7934051,
+vitiko/IphpFileStoreBundle,,
+getparthenon/parthenon,Unit Tests' 'active' '34641443,
+franzose/kontrolio,Continuous Integration' 'active' '28034249,
+php-flasher/flasher,Auto Closer PR' 'active' '26181896,
+noiselabs/SmartyBundle,Coding Standards' 'active' '14829463' 'Tests' 'active' '14869055' 'Testing Sandbox' 'active' '14891809,
+symfony/amazon-mailer,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+mtarld/symbok-bundle,CI' 'active' '2720672,
+deprecated-packages/set-config-resolver,Repo Lockdown' 'active' '5895358,
+eightyknots/phpspreadsheet-bundle,,
+KejawenLab/SemartSkeleton,,
+liip/LiipUrlAutoConverterBundle,,
+acantepie/umbrella-admin-demo,Test install' 'active' '10703609,
+greg0ire/enum,,
+joostdecock/core,,
+alejandro-yakovlev/symfony-docker,,
+painless-software/painless-continuous-delivery,Checks' 'active' '20378550' 'Tests' 'active' '20378549,
+park-manager/park-manager,,
+veloxy/purl,,
+symfony/telegram-notifier,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+Troopers/AlertifyBundle,,
+symfony-cmf/seo-bundle,,
+knpuniversity/symfony,,
+reducktion/socrates,Run Tests' 'active' '1425490,
+samsonasik/ErrorHeroModule,ci build' 'active' '4674310,
+chitanka/chitanka,,
+poppabear8883/UNIT3D-INSTALLER,,
+mediafigaro/google-analytics-api-symfony,,
+artyuum/request-dto-mapper-bundle,Checks' 'active' '29292475' 'Static analysis' 'active' '29291349,
+atoum/AtoumBundle,,
+Bee-Lab/BeelabTagBundle,Continuous Integration' 'active' '4082886,
+artgris/MediaBundle,,
+crf-devs/resop,CI' 'active' '910501,
+fridolin-koch/VreshTwilioBundle,,
+BitBagCommerce/SyliusVueStorefrontPlugin,,
+nucleos/NucleosAntiSpamBundle,Continuous Integration' 'active' '54702' 'Merge' 'active' '4563647' 'Automatic Releases' 'active' '5644354' 'Cleanup automerge' 'active' '5644355' 'Assets' 'active' '17524683,
+lifo101/php-daemon,,
+Orbitale/Compotes,Build Compotes app.' 'active' '11267096' '.github/workflows/webdriver.yml' 'active' '20539614,
+SymfonyLive/paris-2022-talks,,
+eko/GoogleTranslateBundle,,
+bugsnag/bugsnag-symfony,Audit bugsnag-symfony dependency licenses' 'active' '8524557' 'Maze Runner tests' 'active' '11030807' 'test' 'active' '2977885,
+blastcloud/hybrid,run-tests' 'active' '4041910,
+redjanym/FCMBundle,,
+flix-tech/avro-serde-php,php-confluent-serde' 'active' '3356834,
+blanc-frederic/demo-hexa,,
+symfony-si/symfony-resources,,
+Incenteev/DynamicParametersBundle,,
+ajardin/docker-symfony,,
+lookyman/phpstan-symfony,,
+ezsystems/ezplatform-demo,,HHooww ttoo rreeppoorrtt sseeccuurriittyy vvuullnneerraabbiilliittiieess' 'httpsdocibexacoenlatestguidereportingissues' 'SSeeccuurriittyy aaddvviissoorriieess' 'httpsdevelopersibexacosecurityadvisories' 'SSeeccuurriittyy ppoolliiccyy' 'httpswwwibexacosoftwareinformationsecurity' 'SSeeccuurriittyy bblloogg ppoossttss' 'httpswwwibexacotopicsid
+the-fast-track/book-5.0-3,,
+amandris/arbitrage-trading-bot,,
+BitBagCommerce/SyliusMailChimpPlugin,Build' 'active' '9119174,
+systemsdk/docker-apache-php-symfony,Symfony App' 'active' '468384,
+pug-php/pug-symfony,Coverage' 'active' '4393620' 'Tests' 'active' '4393619,
+julkwel/sekoliko,,
+lexik/LexikPayboxBundle,,
+the-fast-track/book-5.2-1,,
+B-Galati/monolog-sentry-handler,CI' 'active' '30416309,
+no-gravity/web_app_from_scratch,,
+fre5h/VichUploaderSerializationBundle,CI' 'active' '8493141,
+Yosimitso/WorkingForumBundle,,
+WandiParis/EasyAdminPlusBundle,,
+dunglas/symfonycon-lisbon,,
+overblog/dataloader-bundle,CI' 'active' '16076425,
+kibatic/symfony-docker,,
+nicholasnet/QueueBundle,,
+welpdev/mailchimp-bundle,,
+recastin/panel,,
+mathieutu/exporter,Code style' 'active' '4099825' 'Coverage' 'active' '4100039' 'Tests' 'active' '4099824,
+a2lix/symfony-collection,,
+deprecated-packages/symfony-route-usage,Repo Lockdown' 'active' '5895361,
+GaetanRole/symfony-lts-website-skeleton-starter,,
+DZunke/SlackBundle,,
+Federkun/docker-skeleton-php,,
+GaetanRole/symfony-lts-docker-starter,,
+webfactory/piwik-bundle,Coding Standards' 'active' '10929893' 'Tests' 'active' '698858,
+opensalt/opensalt,Analysis Workflow' 'active' '232038' 'Static Analysis' 'active' '12464' 'Build and Test' 'active' '5224920' 'Check code style Workflow' 'active' '395651' 'Scan' 'active' '9198638' 'Symfony Security Checker' 'active' '1894121,
+janit/doctrine-inheritance-example,,
+deprecated-packages/console-color-diff,Auto Closer PR' 'active' '9241729,
+the-fast-track/book-5.0-4,,
+linaori/http-bundle,,
+symfony/ux-dropzone,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+K-Phoen/RulerZBundle,,
+helthe/TurbolinksBundle,,
+AudienceHero/AudienceHero,,
+phpearth/swoole-engine,,
+Setono/SyliusGiftCardPlugin,build' 'active' '75179,
+ikoene/symfony-micro,,
+biskuitorg/biskuit,Webhost Release Unstable' 'active' '7272925,
+Noelierx/GameHer,CI' 'active' '2561731,
+driftphp/http-kernel,,
+Catrobat/Catroweb,Static analysis' 'active' '25580916' 'Docker Container tests' 'active' '25580917' 'Dynamic analysis' 'active' '25580918' 'Cancel Previous Workflow Runs' 'active' '26043823' 'Check for new bricks' 'active' '26043824' 'Create Release PR' 'active' '26043825' 'Deployment' 'active' '26043826' 'Synchronize Crowdin' 'active' '26043827,
+SymfonyLive/paris-2020-talks,,
+SSHVersionControl/git-web-client,,
+martin-georgiev/social-post-bundle,,
+covex-nn/docker-workflow-symfony,,
+masfernandez/symfony-ddd-hexarch-cqrs,CI/CD Github actions' 'active' '8728966,
+Sylius/SyliusDemo,Build' 'active' '7975114,
+mailjet/mailjetBundle,,
+web-auth/webauthn-symfony-bundle,,
+ro0NL/symfony-docker,,
+pumukit/PuMuKIT,Code validation' 'active' '1819101,
+olivrg/osep,,
+oroinc/documentation,,
+violines/rest-bundle,Pull Request' 'active' '3936882,
+scheb/2fa-bundle,,
+demartis/symfony5-rest-api,,
+teebbstudios/teebblog,,
+symfonycorp/connect-bundle,,If you found any issues that might have security implications please send a' 'report to securityatsymfonycom DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'The full Security Policy is described in the official documentation
+Incenteev/translation-checker-bundle,CI' 'active' '14141682,
+ancarebeca/FullCalendarBundle,,
+Minishlink/web-push-bundle,,
+polavi-project/ecommerce,,
+bastien70/dbsaver,Coding Standards' 'active' '12336688' 'Continuous Integration' 'active' '12338360' 'Static Analysis' 'active' '12313158,
+liip/LiipSearchBundle,,
+Tobion/OpenAPI-Symfony-Routing,CI' 'active' '1423032,
+jobbsy-dev/jobbsy,Lint ✅' 'active' '19329261' 'Tests 🧪' 'active' '33362367' 'Build and deploy 🚀' 'active' '35547998,
+sonata-project/SonataDoctrinePhpcrAdminBundle,Documentation' 'active' '729456' 'Lint' 'active' '500793' 'Stale' 'disabled_inactivity' '630678' 'Test' 'active' '2336798,
+mybuilder/supervisor-bundle,Test' 'active' '36016730,
+symfony/postmark-mailer,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+contao/standard-edition,,Security is a top priority for Contao Please help us make the system more' 'secure' 'RReeppoorrttiinngg aa sseeccuurriittyy iissssuuee' 'If you think that you have found a security issue in Contao please write an e' 'mail to sseeccuurriittyy aatt ccoonnttaaoooorrgg Emails sent to this address are forwarded to' 'a private channel of the Contao core team' 'Never disclose any information about a vulnerability in the public web blog' 'posts tweets GitHub issues etc before the vulnerability has been' 'acknowledged and fixed in a new Contao release' 'RReessoollvviinngg pprroocceessss' 'For each report we first try to confirm the vulnerability When it is' 'confirmed the core team works on a solution following these steps' '    Send an acknowledgement to the reporter' '    Work on a patch' '    Get a CVE identifier from mitreorg' '    Publish a security announcement on contaoorg' '    Send the patch to the reporter for review' '    Apply the patch to all maintained versions of Contao' '    Release new versions for all affected versions' '    Announce the new versions and the vulnerability on contaoorg' '    Update the public security advisories database' 'BBuugg bboouunnttyy' 'The Contao Association rewards reporters of confirmed vulnerabilities with a' 'security bounty of  Euros' 'SSeeccuurriittyy aaddvviissoorriieess' 'Check the security advisories database for a list of all security' 'vulnerabilities that were already found and fixed in Contao
+codete/FormGeneratorBundle,,
+php-tmdb/symfony,Coding Standards' 'active' '4337936' 'Continuous Integration' 'active' '4338126,
+renan-taranto/cqrs-event-sourcing-example,,
+jakzal/BehatNoExtension,,
+codereviewvideos/fos-rest-and-user-bundle-integration,,
+kevin-verschaeve/symfony-config-builder,,
+takeit/AmpHtmlBundle,,
+msgphp/domain,,
+zenstruck/console-test,CI' 'active' '6880030,
+ansien/RapidFormBundle,,
+Haehnchen/idea-php-drupal-symfony2-bridge,,
+roadiz/standard-edition,,
+acseo/TypesenseBundle,,
+michaelpetri/typed-input,Continuous Integration' 'active' '12841082' 'pages-build-deployment' 'active' '17272057' 'Auto-merge Dependabot PRs' 'active' '17273441,
+fkrauthan/FkrCssURLRewriteBundle,,
+mnapoli/bref-symfony-demo,,
+glooby/task-bundle,,
+liip/LiipContainerWrapperBundle,,
+components-web-app/api-components-bundle,CI' 'active' '959072' 'pages-build-deployment' 'active' '16621524,
+Discutea/DForumBundle,,
+janit/symfony-hybrid-flex-port,,
+symfony/semaphore,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/slack-notifier,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+duboiss/SymForum,Build assets' 'active' '4395052' 'CI' 'active' '4355989,
+jolicode/pomdok,,
+farm-army/farm-army-frontend,,
+yiisoft/yii2-symfonymailer,build' 'active' '16851887,Please use the security issue form to report to us any security issue you find' 'in Yii DO NOT use the issue tracker or discuss it in the public forum as it' 'will cause more damage than help' 'Please note that as a noncommercial OpenSource project we are not able to pay' 'bounties at the moment
+gregurco/jobeet,,
+ChrisDBrown/symfony4-vuejs-ssr,,
+Troopers/AjaxBundle,,
+lazy-ants/remote-manager,,
+7cart/7cart,,
+guham/symfony-docker,,
+qbbr/vim-symfony,,
+iambrosi/IsmaAmbrosiGeneratorBundle,,
+symfony-cmf/core-bundle,Test application' 'active' '15676510,
+trandangtri/sqs-queue-bundle,,
+webfactory/WebfactoryIcuTranslationBundle,Coding Standards' 'active' '18973445' 'Tests' 'active' '18973444,
+morozovalexander/symfocommerce,,
+Troopers/MangopayBundle,,
+nicwortel/symfony-skeleton,Build' 'active' '5036603,
+JeffreyVerreckt/symfony4-oauth2-server-league,,
+the-fast-track/book-5.0-6,,
+IcyDrae/vaults,,
+mykiwi/dockerfiles,,
+symfony/ux-turbo-mercure,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/polyfill-php74,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+qferr/happy-shop,,
+yoanbernabeu/Airtable-Client-Bundle,Static code analysis' 'active' '9731493' 'Testing' 'active' '9731494,
+symfony/sendinblue-mailer,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+TonyGao/Sunshine,,
+thormeier/breadcrumb-bundle,,
+contao/skeleton-bundle,CI' 'active' '27859977,Security is a top priority for Contao Please help us make the system more' 'secure' 'RReeppoorrttiinngg aa sseeccuurriittyy iissssuuee' 'If you think that you have found a security issue in Contao please write an e' 'mail to sseeccuurriittyy aatt ccoonnttaaoooorrgg Emails sent to this address are forwarded to' 'a private channel of the Contao core team' 'Never disclose any information about a vulnerability in the public web blog' 'posts tweets GitHub issues etc before the vulnerability has been' 'acknowledged and fixed in a new Contao release' 'RReessoollvviinngg pprroocceessss' 'For each report we first try to confirm the vulnerability When it is' 'confirmed the core team works on a solution following these steps' '    Send an acknowledgement to the reporter' '    Work on a patch' '    Get a CVE identifier from mitreorg' '    Publish a security announcement on contaoorg' '    Send the patch to the reporter for review' '    Apply the patch to all maintained versions of Contao' '    Release new versions for all affected versions' '    Announce the new versions and the vulnerability on contaoorg' '    Update the public security advisories database' 'BBuugg bboouunnttyy' 'The Contao Association rewards reporters of confirmed vulnerabilities with a' 'security bounty of  Euros' 'SSeeccuurriittyy aaddvviissoorriieess' 'Check the security advisories database for a list of all security' 'vulnerabilities that were already found and fixed in Contao
+Stampie/stampie-bundle,CI' 'active' '12957797,
+liip/LiipCodeBundle,,
+orieuxe/pogchamps,,
+Alecaddd/awps-cli,,
+the-fast-track/book-5.0-2,,
+php-flasher/flasher-laravel,Auto Closer PR' 'active' '26181902,
+Cap-Coding/symfony_api,,
+shapecode/hidden-entity-type-bundle,PHP Composer' 'active' '436005,
+odiseoteam/SyliusBlogPlugin,Build' 'disabled_inactivity' '6507618,
+robertfausk/behat-panther-extension,CI' 'active' '20064661,
+craue/CraueFormFlowDemoBundle,,
+MacPaw/symfony-health-check-bundle,CI' 'active' '8666446' 'gitleaks' 'active' '8666447' 'Code style and static analysis' 'active' '8666448,SSuuppppoorrtteedd VVeerrssiioonnss' 'VVeerrssiioonn SSuuppppoorrtteedd' 'xx   ' 'RReeppoorrttiinngg aa BBuugg' 'Report security bugs by emailing the lead maintainer at yozhefmacpawcom or' 'create Issues' 'RReeppoorrttiinngg aa VVuullnneerraabbiilliittyy' 'Please report suspected security vulnerabilities to yyoozzhheeffmmaaccppaawwccoomm You' 'will receive a response from us within  hours If the issue is confirmed we' 'will release a patch as soon as possible depending on complexity but' 'historically within a few days
+symfony-bundles/event-queue-bundle,,
+dunglas/DunglasDigitalOceanBundle,unit tests' 'active' '12707202,
+kbond/ZenstruckRedirectBundle,CI' 'active' '2506664,
+norsys/rothenberg,,
+Cap-Coding/symfony_docker,,
+piotr-jura-udemy/php7-basics,,
+liip/LiipTranslationBundle,,
+deprecated-packages/migrify,Unit Tests' 'active' '431784' 'Test Coverage' 'active' '433284' 'Integration Tests' 'active' '976646' 'Sonar' 'active' '985201' 'Code Analysis' 'active' '1789514' 'Split Tests' 'active' '1975681' 'Monorepo Split Packages' 'active' '3367941,
+ninsuo/symfony-quickstart,,
+mailjet/MailjetSwiftMailer,,
+odiseoteam/SyliusReportPlugin,Build' 'disabled_inactivity' '9055326,
+KilikFr/TableBundle,,
+symfony/ux-swup,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+deprecated-packages/ControllerAutowire,Code Analysis' 'active' '18093038,
+symfony/discord-notifier,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+Bukashk0zzz/LiipImagineSerializationBundle,,
+sonata-project/SonataTimelineBundle,Documentation' 'active' '729523' 'Lint' 'active' '500818' 'Stale' 'disabled_inactivity' '630658' 'Test' 'active' '2336826,
+Bukashk0zzz/FilterBundle,Tests' 'active' '43638085,
+rubenrua/symfony-clean-tags-composer-plugin,,
+symfony-bundles/redis-bundle,PHP' 'active' '4508845' 'Code style and static analysis' 'active' '4540470' 'Symfony' 'active' '4532232,
+intaro/custom-index-bundle,,
+Algatux/influxdb-bundle,,
+lastzero/test-tools,,
+Arrrray/pd-user,,
+gpslab/cqrs,,
+l-vo/sf_keycloak_example,Lint' 'active' '23108118' 'Tests' 'active' '23108117,
+mxkh/symfony_docker,,
+maschmann/TranslationLoaderBundle,,
+ludofleury/blackflag,,
+bold-commerce/bold-shopify-toolkit,,
+Tekill/env-diff,pages-build-deployment' 'active' '21548126,
+the-fast-track/book-5.0-5,,
+nicolasmure/CrawlerDetectBundle,,
+webgriffe/SyliusAkeneoPlugin,Build' 'active' '4651703' 'Automatic Rebase' 'active' '5819860,
+dsmink/twig-bulma-form-theme-bundle,pages-build-deployment' 'active' '36960581,
+freshcells/soap-client-bundle,soap-client-bundle' 'active' '12447964,
+symfony-cmf/tree-browser-bundle,,
+Incenteev/hashed-asset-bundle,CI' 'active' '5378916,
+HelisLT/settings-manager-bundle,PHPStan' 'active' '19013523' 'PHPUnit' 'active' '19014172,
+Guikingone/PantherExtension,PantherExtension CI - Config' 'active' '1133813' 'PantherExtension CI' 'active' '1133815' 'PantherExtension CI' 'active' '1111070,
+systemsdk/docker-symfony-api,Symfony Rest API' 'active' '314690,
+yokai-php/sonata-workflow,Tests' 'active' '3539773,
+kunicmarko20/SonataAnnotationBundle,,
+boolean-world/elbo,,
+sfcod/socketio,,
+intaro/pinba-bundle,CI' 'active' '29597763,
+symfony/polyfill-php71,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+Setono/SyliusFeedPlugin,build' 'active' '75175,
+kevinpapst/TablerBundle,CI' 'active' '14812055,
+shambhu384/symfony5-jwt-restapi,,
+Richtermeister/symfony-shopify-bundle,,
+bertoost/Docker-Dev-Stack,,
+Bukashk0zzz/LiipImagineSerializationBundle,,
+sonata-project/SonataTimelineBundle,Documentation' 'active' '729523' 'Lint' 'active' '500818' 'Stale' 'disabled_inactivity' '630658' 'Test' 'active' '2336826,
+Bukashk0zzz/FilterBundle,Tests' 'active' '43638085,
+rubenrua/symfony-clean-tags-composer-plugin,,
+symfony-bundles/redis-bundle,PHP' 'active' '4508845' 'Code style and static analysis' 'active' '4540470' 'Symfony' 'active' '4532232,
+intaro/custom-index-bundle,,
+Algatux/influxdb-bundle,,
+lastzero/test-tools,,
+Arrrray/pd-user,,
+gpslab/cqrs,,
+l-vo/sf_keycloak_example,Lint' 'active' '23108118' 'Tests' 'active' '23108117,
+mxkh/symfony_docker,,
+maschmann/TranslationLoaderBundle,,
+ludofleury/blackflag,,
+bold-commerce/bold-shopify-toolkit,,
+Tekill/env-diff,pages-build-deployment' 'active' '21548126,
+the-fast-track/book-5.0-5,,
+nicolasmure/CrawlerDetectBundle,,
+webgriffe/SyliusAkeneoPlugin,Build' 'active' '4651703' 'Automatic Rebase' 'active' '5819860,
+dsmink/twig-bulma-form-theme-bundle,pages-build-deployment' 'active' '36960581,
+freshcells/soap-client-bundle,soap-client-bundle' 'active' '12447964,
+symfony-cmf/tree-browser-bundle,,
+Incenteev/hashed-asset-bundle,CI' 'active' '5378916,
+HelisLT/settings-manager-bundle,PHPStan' 'active' '19013523' 'PHPUnit' 'active' '19014172,
+Guikingone/PantherExtension,PantherExtension CI - Config' 'active' '1133813' 'PantherExtension CI' 'active' '1133815' 'PantherExtension CI' 'active' '1111070,
+systemsdk/docker-symfony-api,Symfony Rest API' 'active' '314690,
+yokai-php/sonata-workflow,Tests' 'active' '3539773,
+kunicmarko20/SonataAnnotationBundle,,
+boolean-world/elbo,,
+sfcod/socketio,,
+intaro/pinba-bundle,CI' 'active' '29597763,
+symfony/polyfill-php71,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+Setono/SyliusFeedPlugin,build' 'active' '75175,
+kevinpapst/TablerBundle,CI' 'active' '14812055,
+shambhu384/symfony5-jwt-restapi,,
+Richtermeister/symfony-shopify-bundle,,
+bertoost/Docker-Dev-Stack,,
+adrienrn/php-mimetyper,,
+nakov/IMDB-Tech-Module,,
+chitanka/rechko,,
+thierrymarianne/speaking-about-symfony2-docker-vagrant,,
+lcp0578/book-note,,
+Samffy/graphql-poc,,
+mhujer/yaml-sort-checker,,
+akovalyov/DebugStatementsFixers,,
+BitBagCommerce/SyliusInvoicingPlugin,,
+Guite/MostGenerator,Build component' 'active' '38827' 'Create release' 'active' '1701690,
+thank-you-symfony/thank-you-symfony,,
+liquetsoft/fias-symfony,liquetsoft_fias' 'active' '4395326,
+goetas/MultipartUploadBundle,,
+phpmentors-jp/workflower-bundle,,
+ramunasd/symfony-container-mocks,,
+wow-apps/symfony-slack-bot,,
+doesntmattr/mongodb-migrations-bundle,,
+javer/JaverSphinxBundle,Test' 'active' '6045758,
+cleverage/eav-manager,,
+alexander-schranz/efficient-json-streaming-with-symfony-doctrine,,
+BitBagCommerce/SyliusPayUPlugin,Build' 'active' '11550240,
+tweedegolf/prometheus-bundle,,
+achreftlili/REST-API-SY4,,
+auxmoney/OpentracingBundle-core,release' 'active' '686470' 'test' 'disabled_inactivity' '4165094,
+zyxist/cantiga,,
+djocker/orocrm,,
+claudsonm/cep-promise-php,Check & fix styling' 'active' '36943266' 'Run Tests' 'active' '26966264' 'unit-tests' 'active' '36941078,
+carlosas/kubernetes-for-symfony,,
+JoppeDC/SyliusBetterSeoPlugin,,
+Matthimatiker/OpcacheBundle,,
+kucharovic/money-bundle,,
+symfony/ux-lazy-image,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony-cmf/block-bundle,,
+sulu/symfony-intl-fix,,
+brpaz/symfony-docker-xdebug-demo,,
+zawiszaty/symfony-prooph-example,,
+pentiminax/symfony-blog,,
+alekitto/messenger-extra,Code style check' 'active' '5983723' 'PHPStan' 'active' '5983724' 'Tests' 'active' '5983725,
+liip/LiipHyphenatorBundle,,
+Bee-Lab/BeelabPaypalBundle,,
+matatirosolutions/CorleyMaintenanceBundle,,
+slashfan/docker-symfony,,
+stephanediondev/feed,,
+allejo/bzion,,
+zaherg/database-backup,Continuous Release' 'active' '666575,
+codereviewvideos/symfony3-wallpaper-website-tutorial,,
+liip/LiipXsltBundle,,
+Setono/SyliusPickupPointPlugin,build' 'active' '109970,
+Setono/SyliusRedirectPlugin,build' 'active' '75176,
+netgen-layouts/layouts-standard,Coding standards' 'active' '5527789' 'Frontend' 'active' '5527790' 'Static analysis' 'active' '5527791' 'Tests' 'active' '5527792,
+jungi-php/framework-extra-bundle,CI' 'active' '8858400,
+lexik/LexikCronFileGeneratorBundle,CI Tests' 'active' '12993370,
+symfony-cmf/content-bundle,,
+ayarii/Symfony,,
+Meteo-Concept/hcaptcha-bundle,,
+ezsystems/symfony-tools,CI' 'active' '9548051' 'PR check' 'active' '14445767' '.github/workflows/pr_check.yaml' 'active' '13940900,HHooww ttoo rreeppoorrtt sseeccuurriittyy vvuullnneerraabbiilliittiieess' 'httpsdocibexacoenlatestguidereportingissues' 'SSeeccuurriittyy aaddvviissoorriieess' 'httpsdevelopersibexacosecurityadvisories' 'SSeeccuurriittyy ppoolliiccyy' 'httpswwwibexacosoftwareinformationsecurity' 'SSeeccuurriittyy bblloogg ppoossttss' 'httpswwwibexacotopicsid
+yannickl88/features-bundle,CI' 'active' '12676056,
+sonata-project/SonataAdminSearchBundle,Documentation' 'active' '540084' 'Lint' 'active' '500769' 'Stale' 'disabled_inactivity' '630673' 'Stale' 'disabled_inactivity' '632007' 'Test' 'active' '2336779,
+async-aws/symfony-bundle,Update branch alias' 'active' '2627583' 'BC Check' 'active' '607625' 'Tests' 'active' '607626,
+mmucklo/DtcGridBundle,,
+kevinpapst/AdminLTEBundle-Demo,,
+Podlatch/Podlatch-Publisher,,
+krybc/cart,,
+symfony-brasil/Forum,,
+redantnl/console,,
+Synap/EBICS.php,,
+mary-shelley/frankie,,
+sky003/symfony-dto,,
+camdram/camdram,Site availablilty checks' 'active' '10996454' 'Cypress Tests' 'active' '13496528' 'Dependabot auto-merge' 'active' '13837259' 'Deploy development branches' 'active' '21171670' 'Deploy releases' 'active' '12567535' 'CI' 'active' '3456179,
+OMOSde/contao-om-backend,,
+CFCorp/CFsAPI,,
+kariae/docker-php,,
+FabianSchmick/photography,Coding Standards' 'active' '38744302' 'Tests' 'active' '38747419,
+systemsdk/docker-nginx-php-symfony,Symfony App' 'active' '463360,
+NoAgenda/website,Publish Docker Images' 'active' '16934013' 'Run Tests' 'active' '16934014,
+symfony-bundles/bundle-dependency,,
+sherlockode/configuration-bundle,,
+MWSimple/AdminCrudBundle,,
+ibra-akv/docker-jobs-bundle,,
+goodwix/doctrine-json-odm,test' 'active' '1293693,
+seferov/awsBundle,,
+jakzal/DemoBundle,,
+Setono/SyliusAnalyticsPlugin,build' 'active' '75178,
+eureka2/G6K,,
+deprecated-packages/SymfonyModularRouting,,
+trilix-gmbh/akeneo-events-api-bundle,,
+janit/symfony-hybrid-twig-react-vue,,
+sulu/sulu-docs,Build docs' 'active' '3924294,
+iisgiua/giuaschool,Release' 'active' '17428851' 'Test and deploy' 'active' '26164064' '.github/workflows/publiccode-yml-validation.yml' 'active' '26500095' 'pages-build-deployment' 'disabled_manually' '17491659,
+Orbitale/PermissionsBundle,,
+villers/laravel-cloud-run-sql,,
+emicheldev/awesome-openclassroom-d-veloppeur-d-application-php-symfony,,
+utmsigep/member-directory,CI Build and Test' 'active' '11612039' 'Coding Standards' 'active' '12960397' 'pages-build-deployment' 'active' '16405652,
+Minishlink/physbook,,
+eerison/myprofile,Remove Container' 'active' '6245304' '.github/workflows/lint.yml' 'active' '34575380' '.github/workflows/test.yml' 'active' '34575381' 'Build' 'active' '34575395' 'Lint backend' 'active' '34578450' 'Test backend' 'active' '35109094' 'Deploy' 'active' '35111500' '.github/workflows/prod_workflow.yml' 'active' '43391306' 'Pull request - Workflow' 'active' '43391307' 'Stage - Workflow' 'active' '43391308,
+touch4it/docker-php7,,
+mayflower/mo4-coding-standard,MO4 Coding Standard CI' 'active' '18370191,
+neg0/docfony,,
+harentius/blog-bundle,,
+patchlevel/event-sourcing-bundle,Check Coding Standard' 'active' '4964815' 'Publish docs' 'active' '29366776' 'Static Analysis by PHPStan' 'active' '4964817' 'PHPUnit tests' 'active' '4964818' 'Static Analysis by Psalm' 'active' '4964819' 'Automatic Releases' 'active' '4964820' 'Tweet new release' 'active' '18980095,
+IndraGunawan/facade-bundle,,
+mediamonks/symfony-rest-api-bundle,,
+sonata-project/SonataDashboardBundle,Documentation' 'active' '729445' 'Lint' 'active' '500784' 'Stale' 'disabled_inactivity' '630712' 'Test' 'active' '2336788,
+sci3ma/symfony-grumphp,,
+symfony/mailchimp-mailer,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony/ux-react,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+Anteste/symbnb,,
+Bee-Lab/BeelabUserBundle,,
+eloyekunle/PermissionsBundle,,
+Setono/SyliusCatalogPromotionPlugin,build' 'active' '75174,
+danrevah/sandbox-bundle,,
+leapt/core-bundle,Build docs' 'active' '7937055' 'Coding Standards' 'active' '3223876' 'Continuous Integration' 'active' '3224311' '.github/workflows/dependabot.yml' 'active' '37630985' 'Next Symfony major version' 'active' '14358935' 'Static Analysis' 'active' '3223877' 'pages-build-deployment' 'active' '17462157,
+eMAGTechLabs/annotation-cache-bundle,,
+pedro-teixeira/grid-bundle,,
+15web/symfony-starter-kit,Check Code Quality' 'active' '26882691' 'pages-build-deployment' 'active' '27819303,
+symfony/fake-sms-notifier,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+Aerendir/PHPrivacy,,
+shampine/sequence,Build [7.4' '8.0' '8.1]' 'active' '2547195,
+Aerendir/bundle-stripe,Composer' 'active' '1780456' 'Phan' 'active' '1780457' 'PHP CS Fixer' 'active' '1780458' 'PHPStan' 'active' '1780459' 'PHPunit' 'active' '1780460' 'PSalm' 'active' '1780461' 'Rector' 'active' '1780455' 'Stripe' 'active' '2516166,
+stefpe/symfony_mercure,,
+ergebnis/symfony-application-template,Integrate' 'active' '882604' 'Prune' 'active' '888284' 'Triage' 'active' '1307499' 'Renew' 'active' '1562529' 'Release' 'active' '1587137' 'Merge' 'active' '15307393,
+zanbaldwin/runtime-playground,,
+tpharaoh/apiplatformtemplate,,
+MDobak/docker-symfony,,
+v-je/docker,,
+MartinPham/todo-ddd,,
+gpslab/domain-event,,
+BitBagCommerce/SyliusAdyenPlugin_old,,
+theofidry/console,AutoReview' 'active' '44128007' 'Tests' 'active' '44131789,
+fazland/FazlandElasticaBundle,,
+Velhron/dadata-bundle,,
+Setono/CronExpressionBundle,build' 'active' '630381,
+jakzal/ParamConverterBundle,,
+symfony/free-mobile-notifier,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+symfony-bundles/fork,,
+mediamonks/symfony-mssql-bundle,,
+Warxcell/files,PHP CodeSniffer' 'active' '13042473' 'PhpUnit' 'active' '10984435' 'Psalm Static analysis' 'active' '10983958,
+webfactory/WebfactoryLegacyIntegrationBundle,,
+BitBagCommerce/SyliusPrzelewy24Plugin,Build' 'active' '12274668,
+duncan3dc/console,.github/workflows/buildcheck.yml' 'active' '230121' '.github/workflows/buildcheck.yml' 'disabled_inactivity' '230019' '.github/workflows/coverage.yml' 'active' '272944,
+happybottoms/coverd,,
+laland/symfony-ts-router,,
+nalabdou/symfony-code-snippets,,
+narrowspark/framework,PHP Audit' 'active' '45433,If you found any issues that might have security implications please send a' 'report to securityatsymfonycom DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'The full Security Policy is described in the official documentation
+jeboehm/mailserver-admin,Testing Symfony with MySQL' 'active' '5669076' 'Publish release' 'active' '25164506,
+griidc/pelagos,CodeQL' 'active' '12526042' 'ESLint for Javascript' 'active' '10957374' 'PHP Code Sniffer' 'active' '10957218' 'PHP Unit Test' 'active' '10957377,
+kunicmarko20/SonataAutoConfigureBundle,,
+numberninecms/cms,Dispatch' 'active' '19953961' 'Tests' 'active' '19953695,
+acantepie/umbrella-adminbundle,,
+ibonkonesa/symfony4-vue,,
+alorian/bitrix24-symfony-boilerplate,,
+aulasoftwarelibre/idea,CI-CD' 'active' '3076056,
+kasteckis/symfony-docker-compose,Try to run docker-compose up' 'disabled_inactivity' '2585175,
+netgen-layouts/layouts-sylius,Coding standards' 'active' '5527783' 'Static analysis' 'active' '5527784' 'Tests' 'active' '5527785,
+lhapaipai/vite-plugin-symfony,,
+web-auth/symfony-demo,,
+BoShurik/telegram-bot-example,,
+hantsy/symfony-rest-sample,Build' 'active' '19787867' 'gh-pages' 'active' '19790938' 'pages-build-deployment' 'active' '19790972,
+sourceability/instrumentation,Tests' 'active' '30981792,
+nebkam/symfony-traits,Tests' 'active' '21878360,
+BitBagCommerce/SyliusProductBundlePlugin,Build' 'disabled_inactivity' '8552005' 'Coding standard' 'active' '15269241,
+symfony/beanstalkd-messenger,,DO NOT PUBLISH SECURITY REPORTS PUBLICLY' 'If you found any issues that might have security implications please send a' 'report to securityatsymfonycom' 'The full Security Policy is described in the official documentation
+Kaudaj/prestashop-maker,Miscellaneous tests' 'active' '14879036' 'PHP tests' 'active' '14879037,

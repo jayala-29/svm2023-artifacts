@@ -1,0 +1,10 @@
+vinkla/wordplate
+wordplate/plate
+wordplate/framework
+fiskhandlarn/blade
+wordplate/mail
+Levdbas/BasePlate
+wordplate/wordplate.github.io
+neone35/plumber123
+b4nghh/wordplate-boilerplate
+hoymultimedia/polylang

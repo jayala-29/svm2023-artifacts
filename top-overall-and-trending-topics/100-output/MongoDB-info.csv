@@ -1,0 +1,101 @@
+author_repo,wf_contents,security_policy
+macrozheng/mall,,
+meteor/meteor,Labeler' 'active' '10894383' '.github/workflows/meteor-promise.yml' 'active' '13660642' 'NPM packages tests' 'active' '13660987' 'NPM eslint-plugin-meteor' 'active' '13676616' 'NPM meteor-promise' 'active' '13676617' 'NPM meteor-babel' 'active' '13714065' 'Meteor Guide PR' 'active' '13749702' 'Meteor Docs PR' 'active' '13750235' 'Meteor Docs version' 'active' '14586500' 'Meteor Guide Branch' 'active' '14587505' 'Check code-style' 'active' '40891847' 'CodeQL' 'active' '44303700,SSuuppppoorrtteedd VVeerrssiioonnss' 'VVeerrssiioonn   SSuuppppoorrtt SSttaattuuss' 'xy      all security issues' 'x     only critical security issues' ' x  no longer supportted' 'RReeppoorrttiinngg aa VVuullnneerraabbiilliittyy' 'Report security bugs to securitymeteorcom' 'Your report will be acknowledged within  work days and youll receive a more' 'detailed response to your report within  work days indicating the next steps' 'in handling your submission' 'After the initial reply to your report the security team will endeavor to keep' 'you informed of the progress being made towards a fix and full announcement' 'and may ask for additional information or guidance surrounding the reported' 'issue' 'We dont have any bounty program' 'RReeppoorrttiinngg aa sseeccuurriittyy bbuugg iinn aa tthhiirrdd ppaarrttyy mmoodduullee' 'Security bugs in third party modules should be reported to their respective' 'maintainers' 'Thank you for improving the security of Meteor and its ecosystem Your efforts' 'and responsible disclosure are greatly appreciated and will be acknowledged' 'DDiisscclloossuurree ppoolliiccyy' 'Here is the security disclosure policy for Meteor' '     The security report is received and is assigned a primary handler This' '      person will coordinate the fix and release process The problem is' '      confirmed and a list of all affected versions is determined Code is' '      audited to find any potential similar problems Fixes are prepared for' '      all releases which are still under maintenance These fixes are not' '      committed to the public repository but rather held locally pending the' '      announcement
+ityouknow/spring-boot-examples,,
+prisma/prisma,Labels stale issues' 'active' '1965992' 'CI' 'active' '2176058' 'Benchmark' 'active' '5340402' 'Benchmark with version' 'active' '8801872' 'Update Engines Version' 'active' '10921320' 'Update Studio Version' 'active' '11760861' 'pages-build-deployment' 'active' '16423483' 'CodeQL: Code Scanning' 'active' '18674773,If you have a security issue to report please contact us at' 'securityprismaio
+mongodb/mongo,,
+parse-community/parse-server,ci' 'active' '3945212' 'release-manual-docker' 'active' '13694066' 'ci-automated-check-environment' 'active' '14198407' 'release-automated-scheduler' 'active' '14614323' 'release-automated' 'active' '14614324' 'pages-build-deployment' 'active' '21788918' 'Build PR Image' 'active' '42574923,If you believe you have found a security vulnerability on one of parse' 'community maintained packages we encourage you to let us know right away We' 'will investigate all legitimate reports and do our best to quickly fix the' 'problem Before making a report please review this page to understand our' 'disclosure policy and how to communicate with us' 'RReessppoonnssiibbllee DDiisscclloossuurree PPoolliiccyy' 'If you comply with the policies below when reporting a security issue to parse' 'community we will not initiate a lawsuit or law enforcement investigation' 'against you in response to your report We ask that' '     You give us reasonable time to investigate and mitigate an issue you' '      report before making public any information about the report or sharing' '      such information with others This means we request aatt lleeaasstt  ddaayyss to' '      get back to you with an initial response and aatt lleeaasstt  ddaayyss from' '      initial contact made by you to apply a patch' '     You do not interact with an individual account which includes modifying' '      or accessing data from the account if the account owner has not' '      consented to such actions' '     You make a good faith effort to avoid privacy violations and disruptions' '      to others including but not limited to destruction of data and' '      interruption or degradation of our services' '     You do not exploit a security issue you discover for any reason This' '      includes demonstrating additional risk such as attempted compromise of' '      sensitive company data or probing for additional issues You do not' '      violate any other applicable laws or regulations' 'CCoommmmuunniiccaattiinngg wwiitthh uuss' 'All vulnerabilities should be privately reported to us by going to https' 'reportparseplatformorg Alternatively you can send an email to' 'securityparseplatformorg
+Asabeneh/30-Days-Of-Python,,
+nswbmw/N-blog,,
+NodeBB/NodeBB,Run Docker' 'active' '12524310' 'Lint and test' 'active' '3308749,NodeBBs security policy is based around a private bug bounty program Users' 'are invited to explore NodeBB for vulnerabilities and report them to the' 'NodeBB team so that they can be patched' 'If you have found a security vulnerability ddoo nnoott ppoosstt iitt oonnttoo oouurr GGiittHHuubb' 'ttrraacckkeerr Some security vulnerabilities are quite severe and discretion is' 'recommended Email the NodeBB Security Team at securitynodebborg instead' 'even if you are not sure whether something qualifies' 'BBuugg BBoouunnttyy PPrrooggrraamm' 'Security vulnerability reports may be eligible for a bounty based on severity' 'and confirmation from NodeBB team members For full details regarding our bug' 'bounty program including the bounty amounts please consult the dedicated page' 'for our Bug Bounty Program
+linnovate/mean,pages-build-deployment' 'active' '32384446,
+reactioncommerce/reaction,CodeQL' 'active' '35816196' 'Release' 'active' '35332991' 'Tagging And Release' 'active' '37317848,SSuuppppoorrtteedd VVeerrssiioonnss' 'These are the versions currently supported with security updates' 'VVeerrssiioonn SSuuppppoorrtteedd' 'xx   ' '    ' 'RReeppoorrttiinngg aa VVuullnneerraabbiilliittyy' 'Should you discover a vulnerability you should not open an issue Please email' 'helloopencommercemailchimpcom We will work with you directly and correct' 'the vulnerability and then make an announcement once a release is available
+bailicangdu/node-elm,,
+macrozheng/mall-learning,pages-build-deployment' 'active' '17392958,
+golang-migrate/migrate,CI' 'active' '11899992,SSuuppppoorrtteedd VVeerrssiioonnss' 'VVeerrssiioonn SSuuppppoorrtteedd' 'master  ' 'x     ' 'x     ' '    ' 'RReeppoorrttiinngg aa VVuullnneerraabbiilliittyy' 'For a full disclosure create a GitHub issue' 'For a coordinated disclosure email golangmigrateprotonme and then create a' 'GitHub issue notifying the maintainers that theres a new vulnerability' 'without the details We wont be checking that email address regularly so' 'its important to also create a GitHub issue to notify us' 'Please suggest potential impact and urgency in your reports
+macrozheng/mall-swarm,,
+mongodb/node-mongodb-native,Build and commit docs' 'active' '23973749' 'Check Dependencies' 'active' '32529327' 'pages-build-deployment' 'active' '17504188,
+HabitRPG/habitica,Test' 'active' '202072' 'Test' 'active' '28259,
+payloadcms/payload,e2e' 'active' '24576653' 'build' 'active' '4717861,RReeppoorrttiinngg aa VVuullnneerraabbiilliittyy' 'Please report any security issues or concerns to infopayloadcmscom
+agenda/agenda,CodeQL' 'active' '30125674' 'Run Test' 'active' '42053135' 'Run Test' 'active' '5413937' 'pages-build-deployment' 'active' '18323641,
+mongodb/mongo-go-driver,,
+digoal/blog,,
+RichardKnop/machinery,,
+pyeve/eve,CI' 'active' '5970087' 'Release Wheel' 'active' '30785896,RReeppoorrttiinngg aa VVuullnneerraabbiilliittyy' 'Please email pyeve at nicolaiarocci dot com any vulnerability you may find' 'about this project
+SoftwareBrothers/adminjs,CI/CD' 'active' '1127792,
+jenssegers/laravel-mongodb,CI' 'active' '402233,
+samuelclay/NewsBlur,,
+angular-fullstack/generator-angular-fullstack,,
+donnemartin/dev-setup,,
+yinxin630/fiora,Lint Code Style' 'active' '1062180' 'Unit Test' 'active' '1062181' 'Typescript Type Check' 'active' '2021748' 'CodeQL' 'active' '6659424,
+mikro-orm/mikro-orm,tests' 'active' '6541' 'docs' 'active' '15121' 'CodeQL' 'active' '2523944' 'pages-build-deployment' 'active' '16400609' 'Release @latest' 'active' '43504759,SSuuppppoorrtteedd VVeerrssiioonnss' 'Only latest majorminor version is supported eg v' 'RReeppoorrttiinngg aa VVuullnneerraabbiilliittyy' 'To report a vulnerability please do not create public issue Instead use one' 'of the following private channels' '     Email can be found at httpsgithubcomBnan' '     Twitter Direct Message to Bnan or MikroOrm at httpstwittercom' '      messagescomposerecipientid' '     Facebook Messenger at httpsmmebnan
+mouredev/Hello-Python,,
+coollabsio/coolify,staging-release' 'active' '30456672' 'production-release' 'active' '30457887' 'release-candidate' 'active' '33915050' 'fluent-bit-release' 'active' '40876637' 'pocketbase-release' 'active' '42048673,
+madhums/node-express-mongoose-demo,,The dependencies will be updated every now and then If there are any severe' 'issues unrelated to the dependencies but more about the code of the project' 'please make an issue or contact me so that I am able to work on it If you are' 'cloning the project newly make sure to be on the latest version of' 'dependencies
+FerretDB/FerretDB,Go' 'active' '14782259' 'Docker' 'active' '17075745' 'Integration' 'active' '22463618' 'Conform PR' 'active' '25625479' 'Packages' 'active' '30854609' 'Security' 'active' '33386305' 'Docs' 'active' '33782987,
+hagopj13/node-express-boilerplate,,
+santiq/bulletproof-nodejs,,
+FAQGURU/FAQGURU,,
+mongo-express/mongo-express,CodeQL' 'active' '34461680' 'standard-ci' 'active' '14752104,SSuuppppoorrtteedd VVeerrssiioonnss' 'Use this section to tell people about which versions of your project are' 'currently being supported with security updates' 'VVeerrssiioonn SSuuppppoorrtteedd' 'x   ' 'x   ' 'x   ' '    ' 'RReeppoorrttiinngg aa VVuullnneerraabbiilliittyy' 'Use this section to tell people how to report a vulnerability' 'Tell them where to go how often they can expect to get an update on a reported' 'vulnerability what to expect if the vulnerability is accepted or declined' 'etc
+backup/backup,tests' 'active' '33819024' 'lint' 'active' '33815019,
+adrianhajdin/project_mern_memories,,
+IDSIA/sacred,,
+bigchaindb/bigchaindb,,
+MongoEngine/mongoengine,MongoengineCI' 'active' '3626029,
+mongodb/mongoid,Docs' 'active' '41995064' 'Rubocop' 'active' '24552705' 'Run Mongoid Tests' 'active' '12962891,SSuuppppoorrtteedd VVeerrssiioonnss' 'Use this section to tell people about which versions of your project are' 'currently being supported with security updates' 'VVeerrssiioonn SSuuppppoorrtteedd' '     ' '     ' '     ' '     ' '    ' 'RReeppoorrttiinngg aa VVuullnneerraabbiilliittyy' 'Please follow the instructions here to report a vulnerability
+openblocks-dev/openblocks,CodeQL' 'active' '40538941,
+mrvautin/adminMongo,,
+royeo/awesome-programming-books,,
+azat-co/practicalnode,,
+mongodb/mongo-python-driver,Notebook Tests' 'active' '16379081' 'Python Tests' 'active' '16140922,
+spacecloud-io/space-cloud,Gateway' 'active' '20745900' 'Go' 'active' '43666' 'Runner' 'active' '20745901' 'SpaceCLI' 'active' '20745899' 'SpaceCloud' 'active' '20708303,
+nosqlclient/nosqlclient,,SSuuppppoorrtteedd VVeerrssiioonnss' 'We no longer support prior  versions' 'VVeerrssiioonn SSuuppppoorrtteedd' '   ' '    ' 'RReeppoorrttiinngg aa VVuullnneerraabbiilliittyy' 'Just use github issues 
+async-labs/builderbook,,
+Qovery/Replibyte,Build and Test' 'active' '21720756' '.github/workflows/on-release.yml' 'active' '22825249' '.github/workflows/on-tag.yml' 'active' '22825250' 'github pages' 'active' '25249319' 'pages-build-deployment' 'active' '25249383' '.github/workflows/publish-image.yaml' 'active' '26466588,
+doramart/DoraCMS,,
+async-labs/saas,,
+upper/db,unit-tests' 'active' '4053901,
+dresende/node-orm2,test' 'active' '14467883,
+labring/laf,links when pr' 'active' '42059243' 'links' 'active' '42193420' 'dockerize-runtime-nodejs' 'active' '42653040' 'build-sealos-cluster-image' 'active' '42675556' 'dockerize-controllers' 'active' '42675557' 'dockerize-server' 'active' '42675558' 'release' 'active' '42675559' 'build-scripts-updated' 'active' '42759038' 'dockerize-web' 'active' '42880982,
+dunwu/db-tutorial,CI' 'active' '23938361' 'pages-build-deployment' 'active' '17533526,
+mongodb/mongo-csharp-driver,pages-build-deployment' 'active' '17563643,
+DOClever/DOClever,,
+kunalkapadia/express-mongoose-es6-rest-api,,
+man-group/arctic,,
+crawlab-team/artipub,,
+qufei1993/Nodejs-Roadmap,pages-build-deployment' 'active' '23315211,
+mongodb/mongo-java-driver,pages-build-deployment' 'active' '18647827,
+vasanthv/jsonbox,,
+Shpota/goxygen,build' 'active' '756836' 'verify-templates' 'active' '756837,
+jakubroztocil/cloudtunes,,
+hwholiday/learning_tools,,
+deepkit/deepkit-framework,Lint' 'active' '30935382' 'CI' 'active' '5002273' 'Browser' 'active' '30808049' 'Deno' 'active' '30808050' 'GJS' 'active' '30808048' 'Node.js' 'active' '30808047,
+emadehsan/thal,,
+mattes/migrate,,
+rohan-paul/Awesome-JavaScript-Interviews,,
+PHPSocialNetwork/phpfastcache,Greetings' 'active' '59758' 'Github CI' 'active' '59503,If you discover any vulnerability please be aware of the following table of' 'supported versions below Then feel free to contact me at the email address' 'provided in the bottom of that page' 'SSuuppppoorrtteedd VVeerrssiioonnss' 'VVeerrssiioonn EEnndd ooff ssuuppppoorrtt EEnndd ooff lliiffee' 'x     December   December ' 'x     July       July ' '     July       July ' '     July       July ' '     July       July ' '     July       July ' '     July       January ' '    NA            NA' 'More details on the Wiki' 'RReeppoorrttiinngg aa VVuullnneerraabbiilliittyy' 'If you discover any security vulnerability contact me at contactatgeolimcom' 'with a subject formatted like that' 'PHPFASTCACHEVULNERABILITY Your subject goes here' 'Thanks in advance for taking the time to report me that in private
+codingo/NoSQLMap,Mark stale issues and pull requests' 'active' '990477' 'pages-build-deployment' 'active' '43235816,
+quokkaproject/quokka,,
+ladjs/lad,pages-build-deployment' 'active' '18132245,DDoo nnoott rreeppoorrtt vvuullnneerraabbiilliittiieess tthhrroouugghh ppuubblliicc GGiittHHuubb iissssuueess ddiissccuussssiioonnss ppuullll' 'rreeqquueessttss oorr aannyy ootthheerr ppuubblliicc ffoorrmm ooff ccoommmmuunniiccaattiioonn' 'Please directly email securitytitanismcom to report vulnerabilities' 'Depending on the severity of the vulnerability and to our sole discretion we' 'may choose to award a bug bounty for the vulnerability disclosure
+jedireza/drywall,,
+forezp/SpringBootLearning,,
+alerta/alerta,Docker' 'active' '1060834' 'Release' 'active' '15474639' 'Tests' 'active' '15978461' 'CodeQL' 'active' '15978468' 'Performance' 'active' '16019849,SSuuppppoorrtteedd VVeerrssiioonnss' 'Only the most recent minor release is being actively developed One previous' 'minor version will receive critical patches and security fixes' 'VVeerrssiioonn SSuuppppoorrtteedd' 'x   ' 'x   ' 'x   ' '    ' 'RReeppoorrttiinngg aa VVuullnneerraabbiilliittyy' 'To report a vulnerability please email adminalertadev and you should receive' 'a response within  hours Do nnoott open a GitHub issue' 'If you have a patch include it in the email using git formatpatch
+ramnes/awesome-mongodb,,
+ityouknow/spring-boot-leaning,,
+nodkz/mongodb-memory-server,CodeQL' 'active' '11663677' 'Mark stale issues and pull requests' 'active' '2480507' 'Node.js CI' 'active' '2485546' 'Deploy Github Pages' 'active' '5156506' 'pages-build-deployment' 'active' '16756235,SSuuppppoorrtteedd VVeerrssiioonnss' 'VVeerrssiioonn  SSuuppppoorrtteedd' 'latest   ' ' latest ' 'RReeppoorrttiinngg aa VVuullnneerraabbiilliittyy' 'Because this is an opensource Project please report it like any other issue
+danielfsousa/express-rest-boilerplate,CI' 'active' '14081638' 'Deploy' 'active' '40934307' 'Docker Build and Push' 'active' '40934308,
+mongodb/motor,Python Tests' 'active' '20070724,
+janishar/nodejs-backend-architecture-typescript,Docker Compose CI' 'active' '43781490,
+dbgate/dbgate,Electron app' 'active' '763790' 'Docker image' 'active' '773046' 'Electron app BETA' 'active' '5236300' 'NPM packages' 'active' '5637146' 'Run tests' 'active' '9666139,
+cezerin/cezerin,,
+NaiboWang/CommandlineConfig,,
+hua1995116/webchat,,
+typegoose/typegoose,CodeQL' 'active' '2757280' 'Dependency Review' 'active' '26637361' 'Mark stale issues and pull requests' 'active' '2378846' 'Node.js Tests' 'active' '2628751' 'Test Github Pages for PR' 'active' '13067938' 'Deploy Github Pages' 'active' '2629533' 'pages-build-deployment' 'active' '16700088,SSuuppppoorrtteedd VVeerrssiioonnss' 'VVeerrssiioonn  SSuuppppoorrtteedd' 'latest   ' ' latest ' 'RReeppoorrttiinngg aa VVuullnneerraabbiilliittyy' 'Because this is an opensource Project it can be normally be reported as any' 'other issue
+eveningkid/denodb,Tag Release' 'active' '39579838' 'Test MySQL' 'active' '4028962,
+grandnode/grandnode,ASP.NET Core CI' 'active' '227080' 'ASP.NET Core CI' 'active' '15550,
+Squidex/squidex,Dev' 'active' '9119825' 'Release' 'active' '9147323' 'pages-build-deployment' 'active' '16436724' 'Check Update' 'active' '37595234,
+TylerBrock/mongo-hacker,,
+mongo-js/mongojs,,
+40t/go-sniffer,,
+diegohaz/rest,,
+geekyouth/SZT-bigdata,,
