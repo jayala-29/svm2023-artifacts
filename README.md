@@ -1,4 +1,4 @@
-# svm2023-artifacts
+# svm2023-artifacts [![DOI](https://zenodo.org/badge/613497922.svg)](https://zenodo.org/badge/latestdoi/613497922)
 
 Contains all data collected and analyses performed for the paper "An Empirical Study on Workflows and Security Policies in Popular GitHub Repositories"
 
